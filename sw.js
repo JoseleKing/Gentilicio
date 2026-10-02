@@ -5,7 +5,7 @@
    - Fuentes de Google: primero la caché, porque no cambian.
    Si cambias la lista de archivos, sube el número de VERSION. */
 
-const VERSION = 'gentilicio-v1';
+const VERSION = 'gentilicio-v2';
 const FUENTES = 'gentilicio-fuentes';
 
 const ARCHIVOS = [
@@ -18,7 +18,6 @@ const ARCHIVOS = [
   'volver-almanaque.js',
   'manifest.json',
   'icons/icon.svg',
-  'icons/logo-portada.png',
   'icons/favicon-32.png',
   'icons/icon-192.png',
   'icons/icon-512.png',

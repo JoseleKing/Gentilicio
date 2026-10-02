@@ -20,20 +20,21 @@
   <link rel="stylesheet" href="styles.css">
   <!-- Portada en línea: se pinta antes de que cargue styles.css. Repite los colores de :root. -->
   <style>
-    /* La portada es el logo (PNG con su propio fondo papel), así que va en papel también en modo oscuro. */
     #portada {
       position: fixed; inset: 0; z-index: 10;
-      display: grid; place-content: center;
-      background: #F3EBDC;
+      display: grid; place-content: center; justify-items: center; gap: 0.9rem;
+      background: #F4EBDD; color: #2B211C;
       transition: opacity 0.4s, visibility 0.4s;
     }
-    #portada img { width: min(72vw, 20rem); height: auto; animation: asomar 0.5s ease-out; }
+    #portada img { width: 7.5rem; height: 7.5rem; border-radius: 22%; box-shadow: 0 0 0 1px #C9B79A; animation: asomar 0.5s ease-out; }
+    #portada p { margin: 0; font: 2.4rem/1 "IM Fell English", Georgia, serif; animation: asomar 0.5s ease-out; }
     #portada.oculta { opacity: 0; visibility: hidden; }
+    @media (prefers-color-scheme: dark) { #portada { background: #16202C; color: #EFE6D6; } #portada img { box-shadow: 0 0 0 1px #3A4858; } }
     @keyframes asomar { from { opacity: 0; transform: scale(0.9); } }
   </style>
 </head>
 <body>
-  <div id="portada" aria-hidden="true"><img src="icons/logo-portada.png" width="800" height="960" alt=""></div>
+  <div id="portada" aria-hidden="true"><img src="icons/icon.svg" width="120" height="120" alt=""><p>Gentilicio</p></div>
 
   <div class="hoja">
     <header class="cabecera">

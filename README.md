@@ -27,7 +27,7 @@ GitHub Pages e instalable como aplicación (PWA).
 | `herramientas/generar-mapa.mjs` | Script que genera `data/mapa.json` (solo para cambiar el encuadre) |
 | `manifest.json`, `sw.js` | Instalación como aplicación y uso sin conexión |
 | `volver-almanaque.js` | Enlace de vuelta a Almanaque (copia de `Almanaque/para-los-juegos/`) |
-| `icons/` | Logo de la portada (`logo-portada.png`), icono en SVG (con la G ya en trazado) y PNG de 32, 180, 192 y 512 px, más el maskable |
+| `icons/` | Icono en SVG (con la G ya en trazado) y PNG de 32, 180, 192 y 512 px, más el maskable |
 
 ## Probar en local
 
