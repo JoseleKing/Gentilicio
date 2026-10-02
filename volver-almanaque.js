@@ -119,7 +119,7 @@
     var enlace = document.createElement('a');
     enlace.id = 'almanaque-volver';
     enlace.href = destino();
-    enlace.setAttribute('aria-label', 'Volver a Almanaque');
+    enlace.setAttribute('aria-label', 'Regresar al Almanaque');
     // Se recalcula al tocar por si la pestaña ha pasado la medianoche.
     enlace.addEventListener('click', function () { enlace.href = destino(); });
 
@@ -129,7 +129,7 @@
     mano.textContent = '☜';
 
     enlace.appendChild(mano);
-    enlace.appendChild(document.createTextNode('Almanaque'));
+    enlace.appendChild(document.createTextNode('Regresar al Almanaque'));
     document.body.insertBefore(enlace, document.body.firstChild);
   }
 
