@@ -1,0 +1,653 @@
+[
+  {
+    "id": "onubense",
+    "gentilicio": "onubense",
+    "lugar": "Huelva",
+    "pais": "España",
+    "region": "Andalucía",
+    "coordenadas": [
+      37.261,
+      -6.945
+    ],
+    "nivel": 1,
+    "formato": "normal",
+    "falsas": [
+      "Osuna",
+      "Ourense"
+    ],
+    "explicacion": "Viene de Onuba (también escrito Onoba), el nombre de Huelva en época romana.",
+    "curiosidad": "Los romanos la llamaban Onoba Aestuaria por su posición en el estuario del Tinto y el Odiel.",
+    "otras_formas": [
+      "huelveño"
+    ]
+  },
+  {
+    "id": "saguntino",
+    "gentilicio": "saguntino",
+    "lugar": "Sagunto",
+    "pais": "España",
+    "region": "Comunidad Valenciana",
+    "coordenadas": [
+      39.68,
+      -0.278
+    ],
+    "nivel": 2,
+    "formato": "normal",
+    "falsas": [
+      "Sigüenza",
+      "Segorbe"
+    ],
+    "explicacion": "Viene de Saguntum, la ciudad cuyo asedio por Aníbal en el 219 a. C. desencadenó la segunda guerra púnica. Ojo con seguntino, que es de Sigüenza, la antigua Segontia.",
+    "curiosidad": "Durante siglos se llamó Murviedro, «muros viejos», y recuperó el nombre de Sagunto en 1868.",
+    "otras_formas": []
+  },
+  {
+    "id": "iliturgitano",
+    "gentilicio": "iliturgitano",
+    "lugar": "Andújar",
+    "pais": "España",
+    "region": "Andalucía",
+    "coordenadas": [
+      38.039,
+      -4.051
+    ],
+    "nivel": 3,
+    "formato": "normal",
+    "falsas": [
+      "Úbeda",
+      "Linares"
+    ],
+    "explicacion": "Viene de Iliturgi, la ciudad ibera y romana con la que se identificó Andújar durante siglos. Hoy los arqueólogos sitúan Iliturgi cerca de Mengíbar, pero el gentilicio se ha quedado. También se dice andujareño.",
+    "curiosidad": "La romería de la Virgen de la Cabeza, en la sierra de Andújar, se celebra el último domingo de abril.",
+    "otras_formas": [
+      "andujareño"
+    ],
+    "revisar": true
+  },
+  {
+    "id": "tapatio",
+    "gentilicio": "tapatío",
+    "lugar": "Guadalajara",
+    "etiqueta": "Guadalajara (Jalisco)",
+    "pais": "México",
+    "region": "Jalisco",
+    "coordenadas": [
+      20.673,
+      -103.344
+    ],
+    "nivel": 1,
+    "formato": "normal",
+    "falsas": [
+      "Monterrey",
+      "Puebla"
+    ],
+    "explicacion": "Es el gentilicio popular de Guadalajara, en Jalisco; el formal es guadalajarense. Su origen es discutido: la explicación más citada lo relaciona con tlapatiotl, voz náhuatl para un pequeño fardo de mercancía que servía de moneda.",
+    "otras_formas": [
+      "guadalajarense"
+    ],
+    "revisar": true
+  },
+  {
+    "id": "santiaguero",
+    "gentilicio": "santiaguero",
+    "lugar": "Santiago de Cuba",
+    "pais": "Cuba",
+    "region": "Santiago de Cuba",
+    "coordenadas": [
+      20.024,
+      -75.821
+    ],
+    "nivel": 2,
+    "formato": "normal",
+    "falsas": [
+      "Santiago de Chile",
+      "Santiago del Estero"
+    ],
+    "explicacion": "Casi cada Santiago tiene su gentilicio: santiaguero es de Santiago de Cuba, santiaguino de Santiago de Chile y santiagueño de Santiago del Estero, en Argentina. Los de Santiago de Compostela son compostelanos o santiagueses.",
+    "otras_formas": []
+  },
+  {
+    "id": "calagurritano",
+    "gentilicio": "calagurritano",
+    "lugar": "Calahorra",
+    "pais": "España",
+    "region": "La Rioja",
+    "coordenadas": [
+      42.305,
+      -1.965
+    ],
+    "nivel": 3,
+    "formato": "reves",
+    "falsas": [
+      "calceatense",
+      "turiasonense"
+    ],
+    "explicacion": "Viene de Calagurris, la ciudad romana sobre la que se asienta Calahorra. También se dice calahorrano. Las otras opciones son de dos vecinas: calceatense, de Santo Domingo de la Calzada, y turiasonense, de Tarazona.",
+    "curiosidad": "Allí nació Quintiliano, el gran maestro de retórica de Roma.",
+    "otras_formas": [
+      "calahorrano"
+    ]
+  },
+  {
+    "id": "ilerdense",
+    "gentilicio": "ilerdense",
+    "lugar": "Lleida",
+    "pais": "España",
+    "region": "Cataluña",
+    "coordenadas": [
+      41.617,
+      0.62
+    ],
+    "nivel": 1,
+    "formato": "normal",
+    "falsas": [
+      "Elda",
+      "Llerena"
+    ],
+    "explicacion": "Viene de Ilerda, la ciudad ibera y luego romana sobre la que creció Lleida (Lérida en castellano). También se dice leridano.",
+    "curiosidad": "En el 49 a. C., Julio César venció junto a Ilerda a los generales de Pompeyo.",
+    "otras_formas": [
+      "leridano"
+    ]
+  },
+  {
+    "id": "complutense",
+    "gentilicio": "complutense",
+    "lugar": "Alcalá de Henares",
+    "pais": "España",
+    "region": "Comunidad de Madrid",
+    "coordenadas": [
+      40.482,
+      -3.364
+    ],
+    "nivel": 2,
+    "formato": "normal",
+    "falsas": [
+      "Alcalá la Real",
+      "Alcalá de Guadaíra"
+    ],
+    "explicacion": "Viene de Complutum, la ciudad romana junto al Henares. También se dice alcalaíno.",
+    "curiosidad": "La Universidad Complutense nació aquí en 1499, de la mano del cardenal Cisneros, y se trasladó a Madrid en 1836 conservando el nombre.",
+    "otras_formas": [
+      "alcalaíno"
+    ]
+  },
+  {
+    "id": "mirobrigense",
+    "gentilicio": "mirobrigense",
+    "lugar": "Ciudad Rodrigo",
+    "pais": "España",
+    "region": "Castilla y León",
+    "coordenadas": [
+      40.6,
+      -6.528
+    ],
+    "nivel": 3,
+    "formato": "normal",
+    "falsas": [
+      "Béjar",
+      "Medina del Campo"
+    ],
+    "explicacion": "Viene de Miróbriga, la población prerromana y romana con la que se identifica Ciudad Rodrigo. La terminación -briga es celta y significa «fortaleza» o «lugar alto».",
+    "curiosidad": "Hay otra Miróbriga en Portugal: unas ruinas romanas junto a Santiago do Cacém.",
+    "otras_formas": []
+  },
+  {
+    "id": "hispalense",
+    "gentilicio": "hispalense",
+    "lugar": "Sevilla",
+    "pais": "España",
+    "region": "Andalucía",
+    "coordenadas": [
+      37.389,
+      -5.984
+    ],
+    "nivel": 1,
+    "formato": "normal",
+    "falsas": [
+      "Écija",
+      "Córdoba"
+    ],
+    "explicacion": "Viene de Hispalis, el nombre romano de Sevilla, que a través del árabe Išbīliya dio el actual. Lo corriente es sevillano; hispalense es la forma culta.",
+    "curiosidad": "San Isidoro, arzobispo de la ciudad en el siglo VII, es conocido como Isidoro Hispalense.",
+    "otras_formas": [
+      "sevillano"
+    ]
+  },
+  {
+    "id": "pacense",
+    "gentilicio": "pacense",
+    "lugar": "Badajoz",
+    "pais": "España",
+    "region": "Extremadura",
+    "coordenadas": [
+      38.878,
+      -6.97
+    ],
+    "nivel": 2,
+    "formato": "normal",
+    "falsas": [
+      "La Paz (Bolivia)",
+      "Plasencia"
+    ],
+    "explicacion": "Viene de Pax Augusta, ciudad romana con la que se identificó Badajoz durante siglos, aunque Badajoz es de fundación andalusí. Ojo: paceño es de La Paz, en Bolivia. También se dice badajocense o badajoceño.",
+    "curiosidad": "La ciudad la fundó Ibn Marwan en el año 875.",
+    "otras_formas": [
+      "badajocense",
+      "badajoceño"
+    ],
+    "revisar": true
+  },
+  {
+    "id": "bilbilitano",
+    "gentilicio": "bilbilitano",
+    "lugar": "Calatayud",
+    "pais": "España",
+    "region": "Aragón",
+    "coordenadas": [
+      41.353,
+      -1.643
+    ],
+    "nivel": 3,
+    "formato": "normal",
+    "falsas": [
+      "Bilbao",
+      "Daroca"
+    ],
+    "explicacion": "Viene de Bilbilis, la ciudad celtíbera y romana cuyas ruinas están a pocos kilómetros de Calatayud. Nada que ver con Bilbao, cuyos vecinos son bilbaínos. También se dice calatayubeño.",
+    "curiosidad": "En Bilbilis nació el poeta Marcial, famoso por sus epigramas.",
+    "otras_formas": [
+      "calatayubeño"
+    ]
+  },
+  {
+    "id": "regiomontano",
+    "gentilicio": "regiomontano",
+    "lugar": "Monterrey",
+    "pais": "México",
+    "region": "Nuevo León",
+    "coordenadas": [
+      25.686,
+      -100.316
+    ],
+    "nivel": 1,
+    "formato": "normal",
+    "falsas": [
+      "Montevideo",
+      "Ciudad Real"
+    ],
+    "explicacion": "Es un calco culto del nombre de la ciudad: Monterrey, «monte del rey», en latín regius mons. Se llamó así en honor del conde de Monterrey, virrey de Nueva España cuando se fundó, en 1596.",
+    "curiosidad": "El astrónomo alemán Johannes Müller firmaba Regiomontanus por la misma razón: era de Königsberg, «monte del rey» en alemán.",
+    "otras_formas": []
+  },
+  {
+    "id": "porteno-valparaiso",
+    "gentilicio": "porteño",
+    "lugar": "Valparaíso",
+    "pais": "Chile",
+    "region": "Región de Valparaíso",
+    "coordenadas": [
+      -33.047,
+      -71.613
+    ],
+    "nivel": 2,
+    "formato": "reves",
+    "falsas": [
+      "viñamarino",
+      "santiaguino"
+    ],
+    "explicacion": "A los de Valparaíso se les llama porteños, igual que a los de Buenos Aires: en los dos casos, por su puerto. También se dice valparaisino.",
+    "curiosidad": "Viñamarino es de Viña del Mar, la ciudad vecina, y santiaguino, de Santiago de Chile.",
+    "otras_formas": [
+      "valparaisino"
+    ]
+  },
+  {
+    "id": "hidrocalido",
+    "gentilicio": "hidrocálido",
+    "lugar": "Aguascalientes",
+    "pais": "México",
+    "region": "Aguascalientes",
+    "coordenadas": [
+      21.882,
+      -102.291
+    ],
+    "nivel": 3,
+    "formato": "normal",
+    "falsas": [
+      "Hidalgo",
+      "Termas de Río Hondo"
+    ],
+    "explicacion": "Es una traducción culta del nombre de la ciudad: hidro-, «agua» en griego, y cálido, «caliente». La forma general es aguascalentense.",
+    "curiosidad": "Su Feria Nacional de San Marcos, cada primavera, es una de las más conocidas de México.",
+    "otras_formas": [
+      "aguascalentense"
+    ]
+  },
+  {
+    "id": "ovetense",
+    "gentilicio": "ovetense",
+    "lugar": "Oviedo",
+    "pais": "España",
+    "region": "Asturias",
+    "coordenadas": [
+      43.362,
+      -5.849
+    ],
+    "nivel": 1,
+    "formato": "reves",
+    "falsas": [
+      "oscense",
+      "auriense"
+    ],
+    "explicacion": "Viene de Ovetum, la forma latina medieval del nombre de Oviedo. Oscense es de Huesca, la Osca romana, y auriense, de Ourense.",
+    "curiosidad": "A los ovetenses también se les llama carbayones, por el Carbayón, un viejo roble de la ciudad.",
+    "otras_formas": []
+  },
+  {
+    "id": "sanjuanino",
+    "gentilicio": "sanjuanino",
+    "lugar": "San Juan",
+    "etiqueta": "San Juan (Argentina)",
+    "pais": "Argentina",
+    "region": "San Juan",
+    "coordenadas": [
+      -31.537,
+      -68.536
+    ],
+    "nivel": 2,
+    "formato": "normal",
+    "falsas": [
+      "San Juan (Puerto Rico)",
+      "San Juan del Río (México)"
+    ],
+    "explicacion": "Sanjuanino es de San Juan, en Argentina. Los de San Juan de Puerto Rico son sanjuaneros.",
+    "curiosidad": "Es la tierra natal de Domingo Faustino Sarmiento, presidente argentino y autor de Facundo.",
+    "otras_formas": [],
+    "revisar": true
+  },
+  {
+    "id": "nebrisense",
+    "gentilicio": "nebrisense",
+    "lugar": "Lebrija",
+    "pais": "España",
+    "region": "Andalucía",
+    "coordenadas": [
+      36.92,
+      -6.076
+    ],
+    "nivel": 3,
+    "formato": "normal",
+    "falsas": [
+      "Utrera",
+      "Lepe"
+    ],
+    "explicacion": "Viene de Nebrissa, el nombre romano de Lebrija. También se dice lebrijano.",
+    "curiosidad": "Antonio de Nebrija, autor de la primera gramática del castellano (1492), tomó su apellido de su pueblo natal.",
+    "otras_formas": [
+      "lebrijano"
+    ]
+  },
+  {
+    "id": "emeritense",
+    "gentilicio": "emeritense",
+    "lugar": "Mérida",
+    "pais": "España",
+    "region": "Extremadura",
+    "coordenadas": [
+      38.916,
+      -6.344
+    ],
+    "nivel": 1,
+    "formato": "normal",
+    "falsas": [
+      "Astorga",
+      "Medellín"
+    ],
+    "explicacion": "Viene de Augusta Emerita, la colonia que Augusto fundó en el 25 a. C. para sus soldados licenciados, los eméritos. También se dice merideño.",
+    "curiosidad": "Fue la capital de la provincia romana de Lusitania.",
+    "otras_formas": [
+      "merideño"
+    ]
+  },
+  {
+    "id": "arriacense",
+    "gentilicio": "arriacense",
+    "lugar": "Guadalajara",
+    "etiqueta": "Guadalajara (España)",
+    "pais": "España",
+    "region": "Castilla-La Mancha",
+    "coordenadas": [
+      40.633,
+      -3.167
+    ],
+    "nivel": 2,
+    "formato": "reves",
+    "falsas": [
+      "tapatío",
+      "seguntino"
+    ],
+    "explicacion": "Viene de Arriaca, la población romana que se identifica con Guadalajara. Lo más corriente es guadalajareño, y también se usa alcarreño, por la comarca de la Alcarria. Tapatío es de la otra Guadalajara, la de México, y seguntino, de Sigüenza, en la misma provincia.",
+    "curiosidad": "El nombre actual es árabe: Wad al-Hayara, «río de las piedras».",
+    "otras_formas": [
+      "guadalajareño",
+      "alcarreño"
+    ]
+  },
+  {
+    "id": "accitano",
+    "gentilicio": "accitano",
+    "lugar": "Guadix",
+    "pais": "España",
+    "region": "Andalucía",
+    "coordenadas": [
+      37.3,
+      -3.139
+    ],
+    "nivel": 3,
+    "formato": "normal",
+    "falsas": [
+      "Baza",
+      "Écija"
+    ],
+    "explicacion": "Viene de Acci, la colonia romana que hoy es Guadix. El nombre actual procede del árabe Wadi Ash, «río de Acci». También se dice guadijeño.",
+    "curiosidad": "Según la tradición, su primer obispo fue san Torcuato, uno de los siete varones apostólicos.",
+    "otras_formas": [
+      "guadijeño"
+    ],
+    "revisar": true
+  },
+  {
+    "id": "gerundense",
+    "gentilicio": "gerundense",
+    "lugar": "Girona",
+    "pais": "España",
+    "region": "Cataluña",
+    "coordenadas": [
+      41.979,
+      2.821
+    ],
+    "nivel": 1,
+    "formato": "normal",
+    "falsas": [
+      "Gandia",
+      "Granollers"
+    ],
+    "explicacion": "Viene de Gerunda, el nombre romano de Girona (Gerona en castellano). También se dice gironés.",
+    "curiosidad": "Su barrio judío medieval, el Call, es uno de los mejor conservados de Europa.",
+    "otras_formas": [
+      "gironés"
+    ]
+  },
+  {
+    "id": "meridano",
+    "gentilicio": "meridano",
+    "lugar": "Mérida",
+    "etiqueta": "Mérida (México)",
+    "pais": "México",
+    "region": "Yucatán",
+    "coordenadas": [
+      20.967,
+      -89.623
+    ],
+    "nivel": 2,
+    "formato": "normal",
+    "falsas": [
+      "Mérida (Venezuela)",
+      "Mérida (España)"
+    ],
+    "explicacion": "Meridano es de Mérida, la capital de Yucatán. Los de Mérida (Venezuela) son merideños, y los de Mérida (España), emeritenses o merideños.",
+    "curiosidad": "Francisco de Montejo «el Mozo» la fundó en 1542 sobre la ciudad maya de T'Hó, y la llamó así porque sus ruinas le recordaron a las romanas de la Mérida extremeña.",
+    "otras_formas": []
+  },
+  {
+    "id": "chalaco",
+    "gentilicio": "chalaco",
+    "lugar": "Callao",
+    "pais": "Perú",
+    "region": "Callao",
+    "coordenadas": [
+      -12.057,
+      -77.118
+    ],
+    "nivel": 3,
+    "formato": "normal",
+    "falsas": [
+      "Chiclayo",
+      "Chincha Alta"
+    ],
+    "explicacion": "Chalaco es el gentilicio del Callao, el gran puerto junto a Lima. Su origen es incierto.",
+    "curiosidad": "El Callao es una provincia constitucional, distinta de la de Lima, aunque las dos forman una sola ciudad.",
+    "otras_formas": []
+  },
+  {
+    "id": "lucense",
+    "gentilicio": "lucense",
+    "lugar": "Lugo",
+    "pais": "España",
+    "region": "Galicia",
+    "coordenadas": [
+      43.012,
+      -7.556
+    ],
+    "nivel": 1,
+    "formato": "normal",
+    "falsas": [
+      "Lucena",
+      "León"
+    ],
+    "explicacion": "Viene de Lucus Augusti, «bosque sagrado de Augusto», el nombre romano de Lugo. También se dice lugués.",
+    "curiosidad": "Su muralla romana, que rodea todo el casco antiguo, es Patrimonio de la Humanidad desde el año 2000.",
+    "otras_formas": [
+      "lugués"
+    ]
+  },
+  {
+    "id": "santafereno",
+    "gentilicio": "santafereño",
+    "lugar": "Bogotá",
+    "pais": "Colombia",
+    "region": "Bogotá, D. C.",
+    "coordenadas": [
+      4.711,
+      -74.072
+    ],
+    "nivel": 2,
+    "formato": "normal",
+    "falsas": [
+      "Santa Fe (Argentina)",
+      "Santa Marta"
+    ],
+    "explicacion": "Bogotá se fundó en 1538 como Santafé, y de ahí santafereño, hoy menos usado que bogotano. Los de Santa Fe (Argentina) son santafesinos.",
+    "curiosidad": "Entre 1991 y 2000 su nombre oficial fue Santafé de Bogotá.",
+    "otras_formas": [
+      "bogotano"
+    ]
+  },
+  {
+    "id": "egarense",
+    "gentilicio": "egarense",
+    "lugar": "Terrassa",
+    "pais": "España",
+    "region": "Cataluña",
+    "coordenadas": [
+      41.563,
+      2.009
+    ],
+    "nivel": 3,
+    "formato": "normal",
+    "falsas": [
+      "Sabadell",
+      "Ejea de los Caballeros"
+    ],
+    "explicacion": "Viene de Égara, la ciudad romana y visigoda sobre la que creció Terrassa (Tarrasa en castellano). También se dice tarrasense.",
+    "curiosidad": "Égara fue sede de un obispado en época visigoda; las iglesias de Sant Pere se levantan sobre aquel conjunto episcopal.",
+    "otras_formas": [
+      "tarrasense"
+    ]
+  },
+  {
+    "id": "tarraconense",
+    "gentilicio": "tarraconense",
+    "lugar": "Tarragona",
+    "pais": "España",
+    "region": "Cataluña",
+    "coordenadas": [
+      41.119,
+      1.245
+    ],
+    "nivel": 1,
+    "formato": "normal",
+    "falsas": [
+      "Tarazona",
+      "Terrassa"
+    ],
+    "explicacion": "Viene de Tarraco, la gran ciudad romana del noreste peninsular. De ella tomó nombre la provincia Tarraconense, la mayor de Hispania.",
+    "curiosidad": "Su anfiteatro, frente al mar, forma parte del conjunto arqueológico de Tarraco, Patrimonio de la Humanidad.",
+    "otras_formas": []
+  },
+  {
+    "id": "paceno",
+    "gentilicio": "paceño",
+    "lugar": "La Paz",
+    "etiqueta": "La Paz (Bolivia)",
+    "pais": "Bolivia",
+    "region": "La Paz",
+    "coordenadas": [
+      -16.5,
+      -68.15
+    ],
+    "nivel": 2,
+    "formato": "normal",
+    "falsas": [
+      "Badajoz",
+      "La Plata"
+    ],
+    "explicacion": "Paceño es de La Paz, sede del Gobierno de Bolivia. Ojo con pacense, que es de Badajoz.",
+    "curiosidad": "Se fundó en 1548 como Nuestra Señora de La Paz y está a más de 3600 metros de altitud.",
+    "otras_formas": []
+  },
+  {
+    "id": "astigitano",
+    "gentilicio": "astigitano",
+    "lugar": "Écija",
+    "pais": "España",
+    "region": "Andalucía",
+    "coordenadas": [
+      37.542,
+      -5.083
+    ],
+    "nivel": 3,
+    "formato": "reves",
+    "falsas": [
+      "accitano",
+      "ursaonense"
+    ],
+    "explicacion": "Viene de Astigi, la colonia romana sobre la que se asienta Écija. También se dice ecijano. Accitano es de Guadix, y ursaonense, de la vecina Osuna.",
+    "curiosidad": "Por el calor de sus veranos la llaman «la sartén de Andalucía».",
+    "otras_formas": [
+      "ecijano"
+    ],
+    "revisar": true
+  }
+]
