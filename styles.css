@@ -347,6 +347,17 @@ button { font: inherit; color: inherit; }
 
 .boton:active { transform: scale(0.99); }
 
+.boton-almanaque {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 10px;
+  border: 1px solid var(--rojo);
+  background: transparent;
+  color: var(--rojo);
+  text-decoration: none;
+}
+
 /* ---------- Resumen ---------- */
 
 .resumen h2 {

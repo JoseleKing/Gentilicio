@@ -5,7 +5,7 @@
    - Fuentes de Google: primero la caché, porque no cambian.
    Si cambias la lista de archivos, sube el número de VERSION. */
 
-const VERSION = 'gentilicio-v2';
+const VERSION = 'gentilicio-v3';
 const FUENTES = 'gentilicio-fuentes';
 
 const ARCHIVOS = [

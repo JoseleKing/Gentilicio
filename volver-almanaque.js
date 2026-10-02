@@ -6,6 +6,11 @@
      window.almanaqueHecho && window.almanaqueHecho();
    (también al abrir el juego con la partida de hoy ya terminada). Así la mano ☜ lleva
    a Almanaque el aviso y la hoja del juego se marca como «Hecho».
+   Botón de volver junto a «Compartir resultado»: el juego pone en su pantalla final
+     <a data-almanaque-volver hidden href="https://joseleking.github.io/Almanaque/">…</a>
+   con el estilo que quiera. Si se llegó desde Almanaque, este script lo muestra y le da
+   el mismo destino que la mano ☜; si no, sigue oculto. Puede pintarse en cualquier
+   momento: el script vigila la página.
    Copia de referencia: se guarda en el repo de Almanaque, en para-los-juegos/.
    Cada juego incluye su propia copia con:
    <script src="volver-almanaque.js" defer></script> */
@@ -58,6 +63,11 @@
     actualizarEnlace();
   };
 
+  // Los botones de volver siguen ocultos aunque el estilo del juego les dé display.
+  var estiloOculto = document.createElement('style');
+  estiloOculto.textContent = '[data-almanaque-volver][hidden]{display:none!important}';
+  document.head.appendChild(estiloOculto);
+
   if (!desdeAlmanaque) return;
 
   // La mano lleva ?hecho=<id> solo si el juego ha avisado hoy en esta pestaña.
@@ -69,6 +79,21 @@
   function actualizarEnlace() {
     var enlace = document.getElementById('almanaque-volver');
     if (enlace) enlace.href = destino();
+    activarBotones();
+  }
+
+  // Muestra los botones de volver que haya puesto el juego y les da destino.
+  function activarBotones() {
+    var botones = document.querySelectorAll('[data-almanaque-volver]');
+    for (var i = 0; i < botones.length; i++) {
+      var boton = botones[i];
+      boton.href = destino();
+      boton.hidden = false;
+      if (!boton.almanaqueActivo) {
+        boton.almanaqueActivo = true;
+        boton.addEventListener('click', function () { this.href = destino(); });
+      }
+    }
   }
 
   function mostrar() {
@@ -108,6 +133,19 @@
     document.body.insertBefore(enlace, document.body.firstChild);
   }
 
-  if (document.body) mostrar();
-  else document.addEventListener('DOMContentLoaded', mostrar);
+  function empezar() {
+    mostrar();
+    activarBotones();
+    // La pantalla final suele pintarse después: se activan los botones nuevos al aparecer.
+    if (window.MutationObserver) {
+      new MutationObserver(function (cambios) {
+        for (var i = 0; i < cambios.length; i++) {
+          if (cambios[i].addedNodes.length) { activarBotones(); return; }
+        }
+      }).observe(document.body, { childList: true, subtree: true });
+    }
+  }
+
+  if (document.body) empezar();
+  else document.addEventListener('DOMContentLoaded', empezar);
 })();
