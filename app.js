@@ -385,7 +385,7 @@ function resumen(numero, reto, respuestas) {
     }
 
     <button id="compartir" class="boton" type="button">Compartir</button>
-    <a class="boton boton-almanaque" data-almanaque-volver hidden href="https://joseleking.github.io/Almanaque/">☜ Volver a Almanaque</a>
+    <a class="boton boton-almanaque" data-almanaque-volver hidden href="https://joseleking.github.io/Almanaque/">☜ Regresar al Almanaque</a>
     <p class="siguiente">Nuevos gentilicios en <time id="cuenta">${cuentaAtras()}</time></p>
     <p class="creditos">Mapas de <a href="https://www.naturalearthdata.com" target="_blank" rel="noopener">Natural Earth</a> (dominio público).</p>
   `;
