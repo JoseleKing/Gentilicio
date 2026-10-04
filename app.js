@@ -162,6 +162,20 @@ function rachaVigente(e, hoy) {
   return e.ultimoDia >= hoy - 1 ? e.racha : 0;
 }
 
+/* ---------- Almanaque ---------- */
+
+/** Con las tres preguntas de hoy jugadas, la mano ☜ marca Gentilicio como «Hecho» en Almanaque,
+    y su hoja muestra los aciertos del día y la racha. */
+function avisarAlmanaque(numero, reto, respuestas) {
+  if (!window.almanaqueHecho) return;
+  const aciertos = aciertosDe(reto, respuestas);
+  window.almanaqueHecho({
+    aciertos: aciertos.filter(Boolean).length,
+    total: aciertos.length,
+    racha: rachaVigente(guardado.estadisticas, numero),
+  });
+}
+
 /* ---------- Interfaz ---------- */
 
 function esc(texto) {
@@ -181,7 +195,7 @@ function render() {
   const reto = retoDelDia(numero);
   const respuestas = respuestasDe(numero);
   const terminado = respuestas.length === PREGUNTAS;
-  if (terminado && !diaPrueba && window.almanaqueHecho) window.almanaqueHecho();
+  if (terminado && !diaPrueba) avisarAlmanaque(numero, reto, respuestas);
 
   document.getElementById('numero').textContent = `nº ${numero}`;
   document.getElementById('racha').innerHTML = diaPrueba
