@@ -649,5 +649,1886 @@
       "ecijano"
     ],
     "revisar": true
+  },
+  {
+    "id": "abulense",
+    "gentilicio": "abulense",
+    "lugar": "Ávila",
+    "pais": "España",
+    "region": "Castilla y León",
+    "coordenadas": [
+      40.656,
+      -4.681
+    ],
+    "nivel": 1,
+    "formato": "normal",
+    "falsas": [
+      "Albacete",
+      "Alcoy"
+    ],
+    "explicacion": "Viene de Abula, el nombre latino que se atribuye a Ávila. También se dice avilés.",
+    "curiosidad": "Santa Teresa de Jesús, nacida en la ciudad, es «la Santa» por antonomasia para los abulenses.",
+    "otras_formas": [
+      "avilés"
+    ]
+  },
+  {
+    "id": "quiteno",
+    "gentilicio": "quiteño",
+    "lugar": "Quito",
+    "pais": "Ecuador",
+    "region": "Pichincha",
+    "coordenadas": [
+      -0.18,
+      -78.467
+    ],
+    "nivel": 1,
+    "formato": "normal",
+    "falsas": [
+      "Quillota",
+      "Cúcuta"
+    ],
+    "explicacion": "Se forma con el sufijo -eño, muy productivo en América: limeño, caraqueño, quiteño…",
+    "curiosidad": "Quito, a unos 2850 metros de altura, es una de las capitales más altas del mundo.",
+    "otras_formas": []
+  },
+  {
+    "id": "conquense",
+    "gentilicio": "conquense",
+    "lugar": "Cuenca",
+    "etiqueta": "Cuenca (España)",
+    "pais": "España",
+    "region": "Castilla-La Mancha",
+    "coordenadas": [
+      40.071,
+      -2.134
+    ],
+    "nivel": 1,
+    "formato": "normal",
+    "falsas": [
+      "Coria",
+      "Conil de la Frontera"
+    ],
+    "explicacion": "Viene de Conca, la forma latina medieval del nombre de la ciudad. Ojo: los de la Cuenca de Ecuador son cuencanos.",
+    "curiosidad": "Sus casas colgadas se asoman a la hoz del río Huécar.",
+    "otras_formas": []
+  },
+  {
+    "id": "habanero",
+    "gentilicio": "habanero",
+    "lugar": "La Habana",
+    "pais": "Cuba",
+    "region": "La Habana",
+    "coordenadas": [
+      23.113,
+      -82.366
+    ],
+    "nivel": 1,
+    "formato": "normal",
+    "falsas": [
+      "Holguín",
+      "Matanzas"
+    ],
+    "explicacion": "De Habana, con el sufijo -ero. También se dice habanense.",
+    "curiosidad": "La habanera, el género musical, lleva el nombre de la ciudad: de allí viajó a España en el siglo XIX.",
+    "otras_formas": [
+      "habanense"
+    ]
+  },
+  {
+    "id": "gaditano",
+    "gentilicio": "gaditano",
+    "lugar": "Cádiz",
+    "pais": "España",
+    "region": "Andalucía",
+    "coordenadas": [
+      36.527,
+      -6.288
+    ],
+    "nivel": 1,
+    "formato": "normal",
+    "falsas": [
+      "Gandia",
+      "Guadix"
+    ],
+    "explicacion": "Viene de Gades, el nombre latino de la ciudad, y este del fenicio Gadir, «recinto amurallado».",
+    "curiosidad": "Fundada por los fenicios hacia el año 1100 a. C., según la tradición, se disputa con otras el título de ciudad más antigua de Occidente.",
+    "otras_formas": []
+  },
+  {
+    "id": "asunceno",
+    "gentilicio": "asunceno",
+    "lugar": "Asunción",
+    "pais": "Paraguay",
+    "region": "Paraguay",
+    "coordenadas": [
+      -25.264,
+      -57.576
+    ],
+    "nivel": 1,
+    "formato": "normal",
+    "falsas": [
+      "Concepción",
+      "Encarnación"
+    ],
+    "explicacion": "De Asunción, con el sufijo -eno. También se dice asunceño.",
+    "curiosidad": "Fundada en 1537, fue la base desde la que se refundó Buenos Aires en 1580: por eso se la llama «madre de ciudades».",
+    "otras_formas": [
+      "asunceño"
+    ]
+  },
+  {
+    "id": "vallisoletano",
+    "gentilicio": "vallisoletano",
+    "lugar": "Valladolid",
+    "pais": "España",
+    "region": "Castilla y León",
+    "coordenadas": [
+      41.652,
+      -4.724
+    ],
+    "nivel": 1,
+    "formato": "reves",
+    "falsas": [
+      "vallecano",
+      "vallense"
+    ],
+    "explicacion": "Viene de Vallisoletum, el nombre latinizado de Valladolid. Coloquialmente, también pucelano.",
+    "curiosidad": "Vallecano es de Vallecas, en Madrid, y vallense, de Valls, en Tarragona.",
+    "otras_formas": [
+      "pucelano"
+    ]
+  },
+  {
+    "id": "limeno",
+    "gentilicio": "limeño",
+    "lugar": "Lima",
+    "pais": "Perú",
+    "region": "Lima",
+    "coordenadas": [
+      -12.046,
+      -77.043
+    ],
+    "nivel": 1,
+    "formato": "normal",
+    "falsas": [
+      "Linares",
+      "Limache"
+    ],
+    "explicacion": "De Lima, con el sufijo -eño.",
+    "curiosidad": "Pizarro la fundó en 1535 como Ciudad de los Reyes, por la Epifanía; el nombre de Lima viene del río Rímac.",
+    "otras_formas": []
+  },
+  {
+    "id": "salmantino",
+    "gentilicio": "salmantino",
+    "lugar": "Salamanca",
+    "pais": "España",
+    "region": "Castilla y León",
+    "coordenadas": [
+      40.965,
+      -5.664
+    ],
+    "nivel": 1,
+    "formato": "normal",
+    "falsas": [
+      "Simancas",
+      "Salobreña"
+    ],
+    "explicacion": "Viene de Salmantica, el nombre latino de la ciudad. También se dice salmanticense y, de forma coloquial, charro.",
+    "otras_formas": [
+      "salmanticense",
+      "charro"
+    ]
+  },
+  {
+    "id": "caraqueno",
+    "gentilicio": "caraqueño",
+    "lugar": "Caracas",
+    "pais": "Venezuela",
+    "region": "Distrito Capital",
+    "coordenadas": [
+      10.48,
+      -66.904
+    ],
+    "nivel": 1,
+    "formato": "normal",
+    "falsas": [
+      "Carúpano",
+      "Cartago"
+    ],
+    "explicacion": "De Caracas, con el sufijo -eño. El nombre de la ciudad viene del de un pueblo indígena del valle.",
+    "otras_formas": []
+  },
+  {
+    "id": "jiennense",
+    "gentilicio": "jiennense",
+    "lugar": "Jaén",
+    "pais": "España",
+    "region": "Andalucía",
+    "coordenadas": [
+      37.779,
+      -3.785
+    ],
+    "nivel": 1,
+    "formato": "normal",
+    "falsas": [
+      "Jerez de la Frontera",
+      "Gijón"
+    ],
+    "explicacion": "Se forma a partir de Jaén con el sufijo latino -ense. También se escribe jienense, y se dice jaenés.",
+    "otras_formas": [
+      "jienense",
+      "jaenés"
+    ]
+  },
+  {
+    "id": "poblano",
+    "gentilicio": "poblano",
+    "lugar": "Puebla",
+    "pais": "México",
+    "region": "Puebla",
+    "coordenadas": [
+      19.041,
+      -98.206
+    ],
+    "nivel": 1,
+    "formato": "normal",
+    "falsas": [
+      "Popayán",
+      "Pola de Siero"
+    ],
+    "explicacion": "De Puebla, con el sufijo -ano.",
+    "curiosidad": "Al mole poblano y a los chiles en nogada se los asocia con los conventos de la ciudad.",
+    "otras_formas": []
+  },
+  {
+    "id": "oscense",
+    "gentilicio": "oscense",
+    "lugar": "Huesca",
+    "pais": "España",
+    "region": "Aragón",
+    "coordenadas": [
+      42.136,
+      -0.409
+    ],
+    "nivel": 1,
+    "formato": "normal",
+    "falsas": [
+      "Oviedo",
+      "Olot"
+    ],
+    "explicacion": "Viene de Osca, el nombre latino de Huesca.",
+    "curiosidad": "Sertorio fundó allí una escuela para los hijos de los jefes indígenas, en el siglo I a. C.",
+    "otras_formas": []
+  },
+  {
+    "id": "montevideano",
+    "gentilicio": "montevideano",
+    "lugar": "Montevideo",
+    "pais": "Uruguay",
+    "region": "Montevideo",
+    "coordenadas": [
+      -34.901,
+      -56.164
+    ],
+    "nivel": 1,
+    "formato": "normal",
+    "falsas": [
+      "Monterrey",
+      "Montería"
+    ],
+    "explicacion": "De Montevideo, con el sufijo -ano.",
+    "curiosidad": "El origen del nombre de la ciudad es discutido; la explicación de que un vigía gritó «¡Monte vide eu!» es una leyenda.",
+    "otras_formas": []
+  },
+  {
+    "id": "malacitano",
+    "gentilicio": "malacitano",
+    "lugar": "Málaga",
+    "pais": "España",
+    "region": "Andalucía",
+    "coordenadas": [
+      36.721,
+      -4.421
+    ],
+    "nivel": 1,
+    "formato": "normal",
+    "falsas": [
+      "Melilla",
+      "Mataró"
+    ],
+    "explicacion": "Viene de Malaca, el nombre latino de Málaga, y este del fenicio Malaka. También se dice malagueño.",
+    "otras_formas": [
+      "malagueño"
+    ]
+  },
+  {
+    "id": "cuzqueno",
+    "gentilicio": "cuzqueño",
+    "lugar": "Cuzco",
+    "pais": "Perú",
+    "region": "Cusco",
+    "coordenadas": [
+      -13.532,
+      -71.967
+    ],
+    "nivel": 1,
+    "formato": "normal",
+    "falsas": [
+      "Cúcuta",
+      "Cuernavaca"
+    ],
+    "explicacion": "De Cuzco, con el sufijo -eño. También se escribe cusqueño, como el nombre oficial de la ciudad, Cusco.",
+    "otras_formas": [
+      "cusqueño"
+    ]
+  },
+  {
+    "id": "burgales",
+    "gentilicio": "burgalés",
+    "lugar": "Burgos",
+    "pais": "España",
+    "region": "Castilla y León",
+    "coordenadas": [
+      42.344,
+      -3.697
+    ],
+    "nivel": 1,
+    "formato": "normal",
+    "falsas": [
+      "Burjassot",
+      "El Burgo de Osma"
+    ],
+    "explicacion": "De Burgos, con el sufijo -és. También existe la forma culta burgense, menos usada.",
+    "otras_formas": [
+      "burgense"
+    ]
+  },
+  {
+    "id": "tico",
+    "gentilicio": "tico",
+    "lugar": "Costa Rica",
+    "pais": "Costa Rica",
+    "region": "Centroamérica",
+    "coordenadas": [
+      9.933,
+      -84.083
+    ],
+    "nivel": 1,
+    "formato": "normal",
+    "falsas": [
+      "Puerto Rico",
+      "Honduras"
+    ],
+    "explicacion": "Se debe a la costumbre costarricense de formar diminutivos en -tico: chiquitico, momentico, hermanitico. El gentilicio formal es costarricense.",
+    "otras_formas": [
+      "costarricense"
+    ]
+  },
+  {
+    "id": "donostiarra",
+    "gentilicio": "donostiarra",
+    "lugar": "San Sebastián",
+    "pais": "España",
+    "region": "País Vasco",
+    "coordenadas": [
+      43.318,
+      -1.981
+    ],
+    "nivel": 1,
+    "formato": "reves",
+    "falsas": [
+      "irunés",
+      "vitoriano"
+    ],
+    "explicacion": "De Donostia, el nombre vasco de San Sebastián, con el sufijo -arra. También se dice easonense, por Easo, un nombre antiguo de la zona.",
+    "curiosidad": "Irunés es de Irún, y vitoriano, de Vitoria.",
+    "otras_formas": [
+      "easonense"
+    ]
+  },
+  {
+    "id": "chilango",
+    "gentilicio": "chilango",
+    "lugar": "Ciudad de México",
+    "pais": "México",
+    "region": "Ciudad de México",
+    "coordenadas": [
+      19.433,
+      -99.133
+    ],
+    "nivel": 1,
+    "formato": "normal",
+    "falsas": [
+      "Chilpancingo",
+      "Chihuahua"
+    ],
+    "explicacion": "Es el gentilicio coloquial de la capital mexicana; el formal es capitalino. Su origen es discutido: una propuesta lo relaciona con una voz maya, xilaan, «despeinado».",
+    "otras_formas": [
+      "capitalino"
+    ],
+    "revisar": true
+  },
+  {
+    "id": "turolense",
+    "gentilicio": "turolense",
+    "lugar": "Teruel",
+    "pais": "España",
+    "region": "Aragón",
+    "coordenadas": [
+      40.345,
+      -1.106
+    ],
+    "nivel": 1,
+    "formato": "normal",
+    "falsas": [
+      "Tudela",
+      "Toledo"
+    ],
+    "explicacion": "Viene de Turolium, la forma latina medieval del nombre de Teruel.",
+    "curiosidad": "Teruel es la ciudad de los Amantes, Diego e Isabel, cuya leyenda se sitúa en el siglo XIII.",
+    "otras_formas": []
+  },
+  {
+    "id": "rosarino",
+    "gentilicio": "rosarino",
+    "lugar": "Rosario",
+    "pais": "Argentina",
+    "region": "Santa Fe",
+    "coordenadas": [
+      -32.947,
+      -60.639
+    ],
+    "nivel": 1,
+    "formato": "normal",
+    "falsas": [
+      "Rosas",
+      "Resistencia"
+    ],
+    "explicacion": "De Rosario, con el sufijo -ino.",
+    "curiosidad": "Allí izó Manuel Belgrano por primera vez la bandera argentina, en 1812.",
+    "otras_formas": []
+  },
+  {
+    "id": "auriense",
+    "gentilicio": "auriense",
+    "lugar": "Ourense",
+    "pais": "España",
+    "region": "Galicia",
+    "coordenadas": [
+      42.336,
+      -7.864
+    ],
+    "nivel": 1,
+    "formato": "normal",
+    "falsas": [
+      "Oria",
+      "Aranda de Duero"
+    ],
+    "explicacion": "Viene de Auria, el nombre latino medieval de la ciudad, que suele relacionarse con el oro (aurum) que arrastraba el Miño. También se dice orensano.",
+    "otras_formas": [
+      "orensano",
+      "ourensano"
+    ]
+  },
+  {
+    "id": "boricua",
+    "gentilicio": "boricua",
+    "lugar": "Puerto Rico",
+    "pais": "Puerto Rico",
+    "region": "Caribe",
+    "coordenadas": [
+      18.22,
+      -66.5
+    ],
+    "nivel": 1,
+    "formato": "reves",
+    "falsas": [
+      "guaraní",
+      "araucano"
+    ],
+    "explicacion": "Viene de Borikén, el nombre taíno de la isla. También se dice borinqueño y, de forma general, puertorriqueño.",
+    "curiosidad": "Guaraní se refiere al pueblo y la lengua del Paraguay; araucano, a los mapuches de Chile y Argentina.",
+    "otras_formas": [
+      "borinqueño",
+      "puertorriqueño"
+    ]
+  },
+  {
+    "id": "pontevedres",
+    "gentilicio": "pontevedrés",
+    "lugar": "Pontevedra",
+    "pais": "España",
+    "region": "Galicia",
+    "coordenadas": [
+      42.431,
+      -8.644
+    ],
+    "nivel": 1,
+    "formato": "normal",
+    "falsas": [
+      "Ponferrada",
+      "Puente Genil"
+    ],
+    "explicacion": "De Pontevedra, con el sufijo -és. El nombre de la ciudad viene del latín pons vetus, «puente viejo».",
+    "otras_formas": []
+  },
+  {
+    "id": "guayaquileno",
+    "gentilicio": "guayaquileño",
+    "lugar": "Guayaquil",
+    "pais": "Ecuador",
+    "region": "Guayas",
+    "coordenadas": [
+      -2.19,
+      -79.887
+    ],
+    "nivel": 1,
+    "formato": "normal",
+    "falsas": [
+      "Guayama",
+      "Guanare"
+    ],
+    "explicacion": "De Guayaquil, con el sufijo -eño.",
+    "curiosidad": "Es el principal puerto de Ecuador, a orillas del río Guayas.",
+    "otras_formas": []
+  },
+  {
+    "id": "logrones",
+    "gentilicio": "logroñés",
+    "lugar": "Logroño",
+    "pais": "España",
+    "region": "La Rioja",
+    "coordenadas": [
+      42.466,
+      -2.445
+    ],
+    "nivel": 1,
+    "formato": "normal",
+    "falsas": [
+      "Lorca",
+      "Loja"
+    ],
+    "explicacion": "De Logroño, con el sufijo -és.",
+    "curiosidad": "La calle del Laurel, con sus bares de pinchos, es casi un emblema de la ciudad.",
+    "otras_formas": []
+  },
+  {
+    "id": "oaxaqueno",
+    "gentilicio": "oaxaqueño",
+    "lugar": "Oaxaca",
+    "pais": "México",
+    "region": "Oaxaca",
+    "coordenadas": [
+      17.061,
+      -96.725
+    ],
+    "nivel": 1,
+    "formato": "normal",
+    "falsas": [
+      "Orizaba",
+      "Ocaña"
+    ],
+    "explicacion": "De Oaxaca, con el sufijo -eño.",
+    "curiosidad": "El nombre viene del náhuatl Huaxyacac, «en la punta de los guajes», un árbol de la zona.",
+    "otras_formas": []
+  },
+  {
+    "id": "santanderino",
+    "gentilicio": "santanderino",
+    "lugar": "Santander",
+    "pais": "España",
+    "region": "Cantabria",
+    "coordenadas": [
+      43.462,
+      -3.81
+    ],
+    "nivel": 1,
+    "formato": "normal",
+    "falsas": [
+      "Santiago de Compostela",
+      "Santurtzi"
+    ],
+    "explicacion": "De Santander, con el sufijo -ino.",
+    "curiosidad": "El nombre de la ciudad viene de San Emeterio, Sancti Emeterii en latín.",
+    "otras_formas": []
+  },
+  {
+    "id": "cochabambino",
+    "gentilicio": "cochabambino",
+    "lugar": "Cochabamba",
+    "pais": "Bolivia",
+    "region": "Cochabamba",
+    "coordenadas": [
+      -17.39,
+      -66.157
+    ],
+    "nivel": 1,
+    "formato": "normal",
+    "falsas": [
+      "Cajamarca",
+      "Chuquicamata"
+    ],
+    "explicacion": "De Cochabamba, con el sufijo -ino.",
+    "curiosidad": "En la Guerra del Agua del año 2000, sus vecinos lograron revertir la privatización del suministro.",
+    "otras_formas": []
+  },
+  {
+    "id": "cuencano",
+    "gentilicio": "cuencano",
+    "lugar": "Cuenca",
+    "etiqueta": "Cuenca (Ecuador)",
+    "pais": "Ecuador",
+    "region": "Azuay",
+    "coordenadas": [
+      -2.9,
+      -79.005
+    ],
+    "nivel": 2,
+    "formato": "normal",
+    "falsas": [
+      "Cuenca (España)",
+      "Cuernavaca"
+    ],
+    "explicacion": "Los de Cuenca de Ecuador son cuencanos; los de la Cuenca española, conquenses.",
+    "curiosidad": "Su nombre completo es Santa Ana de los Cuatro Ríos de Cuenca. Los sombreros de paja toquilla, mal llamados «de Panamá», se tejen en su región.",
+    "otras_formas": []
+  },
+  {
+    "id": "mexiquense",
+    "gentilicio": "mexiquense",
+    "lugar": "Estado de México",
+    "pais": "México",
+    "region": "Estado de México",
+    "coordenadas": [
+      19.29,
+      -99.66
+    ],
+    "nivel": 2,
+    "formato": "normal",
+    "falsas": [
+      "Ciudad de México",
+      "Nuevo México"
+    ],
+    "explicacion": "Es el gentilicio del Estado de México, que rodea a la capital. Los de Ciudad de México son capitalinos, o chilangos.",
+    "curiosidad": "Su capital es Toluca.",
+    "otras_formas": []
+  },
+  {
+    "id": "campechano",
+    "gentilicio": "campechano",
+    "lugar": "Campeche",
+    "pais": "México",
+    "region": "Campeche",
+    "coordenadas": [
+      19.845,
+      -90.524
+    ],
+    "nivel": 2,
+    "formato": "normal",
+    "falsas": [
+      "Campo de Criptana",
+      "Camagüey"
+    ],
+    "explicacion": "De Campeche, con el sufijo -ano.",
+    "curiosidad": "El adjetivo «campechano», afable y sencillo, se suele relacionar con la ciudad, aunque la conexión no está clara.",
+    "otras_formas": [],
+    "revisar": true
+  },
+  {
+    "id": "santafesino",
+    "gentilicio": "santafesino",
+    "lugar": "Santa Fe",
+    "etiqueta": "Santa Fe (Argentina)",
+    "pais": "Argentina",
+    "region": "Santa Fe",
+    "coordenadas": [
+      -31.633,
+      -60.7
+    ],
+    "nivel": 2,
+    "formato": "normal",
+    "falsas": [
+      "Bogotá",
+      "Santa Marta"
+    ],
+    "explicacion": "Los de Santa Fe, en Argentina, son santafesinos; los santafereños son de Bogotá, la antigua Santa Fe de Bogotá.",
+    "otras_formas": [
+      "santafecino"
+    ]
+  },
+  {
+    "id": "josefino",
+    "gentilicio": "josefino",
+    "lugar": "San José",
+    "etiqueta": "San José (Costa Rica)",
+    "pais": "Costa Rica",
+    "region": "San José",
+    "coordenadas": [
+      9.933,
+      -84.083
+    ],
+    "nivel": 2,
+    "formato": "normal",
+    "falsas": [
+      "San Juan (Puerto Rico)",
+      "Santo Domingo"
+    ],
+    "explicacion": "De José, el santo del nombre de la ciudad, con el sufijo -ino.",
+    "otras_formas": []
+  },
+  {
+    "id": "legionense",
+    "gentilicio": "legionense",
+    "lugar": "León",
+    "etiqueta": "León (España)",
+    "pais": "España",
+    "region": "Castilla y León",
+    "coordenadas": [
+      42.599,
+      -5.567
+    ],
+    "nivel": 2,
+    "formato": "normal",
+    "falsas": [
+      "León (México)",
+      "León (Nicaragua)"
+    ],
+    "explicacion": "Viene de Legio, la legión romana que acampó donde hoy está la ciudad. También se dice leonés.",
+    "otras_formas": [
+      "leonés"
+    ]
+  },
+  {
+    "id": "matritense",
+    "gentilicio": "matritense",
+    "lugar": "Madrid",
+    "pais": "España",
+    "region": "Comunidad de Madrid",
+    "coordenadas": [
+      40.417,
+      -3.704
+    ],
+    "nivel": 2,
+    "formato": "normal",
+    "falsas": [
+      "Mataró",
+      "Martos"
+    ],
+    "explicacion": "Viene de Matritum, la forma latinizada del nombre de Madrid. Es una forma culta de madrileño.",
+    "otras_formas": [
+      "madrileño"
+    ]
+  },
+  {
+    "id": "cesaraugustano",
+    "gentilicio": "cesaraugustano",
+    "lugar": "Zaragoza",
+    "pais": "España",
+    "region": "Aragón",
+    "coordenadas": [
+      41.649,
+      -0.889
+    ],
+    "nivel": 2,
+    "formato": "normal",
+    "falsas": [
+      "Cáceres",
+      "Mérida"
+    ],
+    "explicacion": "Viene de Caesaraugusta, la colonia romana dedicada al emperador Augusto, de la que procede el propio nombre de Zaragoza. Lo corriente es zaragozano.",
+    "curiosidad": "Mérida también fue «Augusta» (Emerita Augusta), por eso es una buena trampa.",
+    "otras_formas": [
+      "zaragozano"
+    ]
+  },
+  {
+    "id": "ilicitano",
+    "gentilicio": "ilicitano",
+    "lugar": "Elche",
+    "pais": "España",
+    "region": "Comunidad Valenciana",
+    "coordenadas": [
+      38.267,
+      -0.698
+    ],
+    "nivel": 2,
+    "formato": "normal",
+    "falsas": [
+      "Écija",
+      "Illescas"
+    ],
+    "explicacion": "Viene de Ilici, el nombre ibero y romano de Elche. También se dice elchense.",
+    "curiosidad": "La Dama de Elche, el busto ibero más famoso, apareció en 1897 en La Alcudia, el yacimiento de la antigua Ilici.",
+    "otras_formas": []
+  },
+  {
+    "id": "mahones",
+    "gentilicio": "mahonés",
+    "lugar": "Mahón",
+    "pais": "España",
+    "region": "Islas Baleares",
+    "coordenadas": [
+      39.889,
+      4.265
+    ],
+    "nivel": 2,
+    "formato": "normal",
+    "falsas": [
+      "Manacor",
+      "Manresa"
+    ],
+    "explicacion": "De Mahón, con el sufijo -és. En catalán, la ciudad se llama Maó.",
+    "curiosidad": "Una explicación muy extendida sostiene que la mayonesa, o mahonesa, se llama así por Mahón, tras la toma francesa de 1756.",
+    "otras_formas": []
+  },
+  {
+    "id": "marbelli",
+    "gentilicio": "marbellí",
+    "lugar": "Marbella",
+    "pais": "España",
+    "region": "Andalucía",
+    "coordenadas": [
+      36.51,
+      -4.886
+    ],
+    "nivel": 2,
+    "formato": "reves",
+    "falsas": [
+      "rondeño",
+      "esteponero"
+    ],
+    "explicacion": "Es de los pocos gentilicios españoles en -í, una terminación de origen árabe, como ceutí o marroquí.",
+    "curiosidad": "Rondeño es de Ronda, y esteponero, de Estepona.",
+    "otras_formas": []
+  },
+  {
+    "id": "linense",
+    "gentilicio": "linense",
+    "lugar": "La Línea de la Concepción",
+    "pais": "España",
+    "region": "Andalucía",
+    "coordenadas": [
+      36.168,
+      -5.348
+    ],
+    "nivel": 2,
+    "formato": "normal",
+    "falsas": [
+      "Linares",
+      "Llanes"
+    ],
+    "explicacion": "De La Línea, por la línea de fortificaciones españolas frente a Gibraltar. Los de Linares son linarenses.",
+    "otras_formas": []
+  },
+  {
+    "id": "portuense",
+    "gentilicio": "portuense",
+    "lugar": "El Puerto de Santa María",
+    "pais": "España",
+    "region": "Andalucía",
+    "coordenadas": [
+      36.594,
+      -6.233
+    ],
+    "nivel": 2,
+    "formato": "normal",
+    "falsas": [
+      "Portugalete",
+      "Puertollano"
+    ],
+    "explicacion": "Del latín portus, «puerto». Se aplica a varios lugares con «Puerto» en el nombre; el más conocido es El Puerto de Santa María.",
+    "curiosidad": "Los de Portugalete son jarrilleros, y los de Puertollano, puertollaneros.",
+    "otras_formas": []
+  },
+  {
+    "id": "charrua",
+    "gentilicio": "charrúa",
+    "lugar": "Uruguay",
+    "pais": "Uruguay",
+    "region": "Sudamérica",
+    "coordenadas": [
+      -32.8,
+      -56
+    ],
+    "nivel": 2,
+    "formato": "reves",
+    "falsas": [
+      "guaraní",
+      "mapuche"
+    ],
+    "explicacion": "Los charrúas eran un pueblo indígena de la Banda Oriental. Hoy charrúa se usa como sinónimo de uruguayo, sobre todo en el deporte.",
+    "otras_formas": [
+      "uruguayo",
+      "oriental"
+    ]
+  },
+  {
+    "id": "quisqueyano",
+    "gentilicio": "quisqueyano",
+    "lugar": "República Dominicana",
+    "pais": "República Dominicana",
+    "region": "Caribe",
+    "coordenadas": [
+      18.7,
+      -70.2
+    ],
+    "nivel": 2,
+    "formato": "normal",
+    "falsas": [
+      "Puerto Rico",
+      "Cuba"
+    ],
+    "explicacion": "Viene de Quisqueya, uno de los nombres que se atribuyen a la isla antes de la llegada de Colón. Es sinónimo de dominicano.",
+    "otras_formas": [
+      "dominicano"
+    ]
+  },
+  {
+    "id": "jarocho",
+    "gentilicio": "jarocho",
+    "lugar": "Veracruz",
+    "pais": "México",
+    "region": "Veracruz",
+    "coordenadas": [
+      19.173,
+      -96.134
+    ],
+    "nivel": 2,
+    "formato": "normal",
+    "falsas": [
+      "Xalapa",
+      "Jalisco"
+    ],
+    "explicacion": "Es el gentilicio popular del puerto de Veracruz; el formal es veracruzano. Los de Xalapa, la capital del estado, son xalapeños.",
+    "otras_formas": [
+      "veracruzano"
+    ]
+  },
+  {
+    "id": "maracucho",
+    "gentilicio": "maracucho",
+    "lugar": "Maracaibo",
+    "pais": "Venezuela",
+    "region": "Zulia",
+    "coordenadas": [
+      10.654,
+      -71.64
+    ],
+    "nivel": 2,
+    "formato": "normal",
+    "falsas": [
+      "Maracay",
+      "Mérida (Venezuela)"
+    ],
+    "explicacion": "Es la forma popular; la culta es marabino. Los de Maracay son maracayeros o aragüeños.",
+    "otras_formas": [
+      "marabino"
+    ]
+  },
+  {
+    "id": "margariteno",
+    "gentilicio": "margariteño",
+    "lugar": "Isla de Margarita",
+    "pais": "Venezuela",
+    "region": "Nueva Esparta",
+    "coordenadas": [
+      11,
+      -63.9
+    ],
+    "nivel": 2,
+    "formato": "normal",
+    "falsas": [
+      "Martinica",
+      "Santa Marta"
+    ],
+    "explicacion": "De Margarita, con el sufijo -eño. La isla debe su nombre a las perlas (margaritas, en latín) que se pescaban en sus aguas.",
+    "otras_formas": []
+  },
+  {
+    "id": "marplatense",
+    "gentilicio": "marplatense",
+    "lugar": "Mar del Plata",
+    "pais": "Argentina",
+    "region": "Buenos Aires",
+    "coordenadas": [
+      -38.005,
+      -57.543
+    ],
+    "nivel": 2,
+    "formato": "normal",
+    "falsas": [
+      "La Plata",
+      "Río de la Plata"
+    ],
+    "explicacion": "De Mar del Plata. Los de La Plata, la capital de la provincia, son platenses.",
+    "otras_formas": []
+  },
+  {
+    "id": "cruceno",
+    "gentilicio": "cruceño",
+    "lugar": "Santa Cruz de la Sierra",
+    "pais": "Bolivia",
+    "region": "Santa Cruz",
+    "coordenadas": [
+      -17.783,
+      -63.182
+    ],
+    "nivel": 2,
+    "formato": "normal",
+    "falsas": [
+      "Santa Cruz de Tenerife",
+      "Veracruz"
+    ],
+    "explicacion": "De Cruz, con el sufijo -eño. Los de Santa Cruz de Tenerife son santacruceros o chicharreros.",
+    "otras_formas": []
+  },
+  {
+    "id": "orureno",
+    "gentilicio": "orureño",
+    "lugar": "Oruro",
+    "pais": "Bolivia",
+    "region": "Oruro",
+    "coordenadas": [
+      -17.969,
+      -67.115
+    ],
+    "nivel": 2,
+    "formato": "normal",
+    "falsas": [
+      "Ourense",
+      "Uruapan"
+    ],
+    "explicacion": "De Oruro, con el sufijo -eño. Los de Ourense, en cambio, son aurienses u orensanos.",
+    "curiosidad": "Su carnaval, con la diablada, es Patrimonio de la Humanidad.",
+    "otras_formas": []
+  },
+  {
+    "id": "neoleones",
+    "gentilicio": "neoleonés",
+    "lugar": "Nuevo León",
+    "pais": "México",
+    "region": "Nuevo León",
+    "coordenadas": [
+      25.67,
+      -100.31
+    ],
+    "nivel": 2,
+    "formato": "normal",
+    "falsas": [
+      "León (Guanajuato)",
+      "Nuevo Laredo"
+    ],
+    "explicacion": "Combina neo-, «nuevo», con leonés. Los de su capital, Monterrey, son regiomontanos.",
+    "otras_formas": [
+      "nuevoleonés"
+    ]
+  },
+  {
+    "id": "ubetense",
+    "gentilicio": "ubetense",
+    "lugar": "Úbeda",
+    "pais": "España",
+    "region": "Andalucía",
+    "coordenadas": [
+      38.013,
+      -3.37
+    ],
+    "nivel": 2,
+    "formato": "normal",
+    "falsas": [
+      "Utrera",
+      "Huete"
+    ],
+    "explicacion": "De Úbeda, con el sufijo -ense.",
+    "curiosidad": "Su conjunto renacentista, junto con el de Baeza, es Patrimonio de la Humanidad.",
+    "otras_formas": []
+  },
+  {
+    "id": "tegucigalpense",
+    "gentilicio": "tegucigalpense",
+    "lugar": "Tegucigalpa",
+    "pais": "Honduras",
+    "region": "Francisco Morazán",
+    "coordenadas": [
+      14.072,
+      -87.192
+    ],
+    "nivel": 2,
+    "formato": "normal",
+    "falsas": [
+      "Tapachula",
+      "Tuxtla Gutiérrez"
+    ],
+    "explicacion": "De Tegucigalpa, con el sufijo -ense. En el habla popular, a la ciudad se la llama Tegus.",
+    "otras_formas": []
+  },
+  {
+    "id": "managuense",
+    "gentilicio": "managüense",
+    "lugar": "Managua",
+    "pais": "Nicaragua",
+    "region": "Managua",
+    "coordenadas": [
+      12.136,
+      -86.251
+    ],
+    "nivel": 2,
+    "formato": "normal",
+    "falsas": [
+      "Masaya",
+      "Manzanillo"
+    ],
+    "explicacion": "De Managua, con el sufijo -ense; la diéresis mantiene el sonido de la u.",
+    "otras_formas": []
+  },
+  {
+    "id": "limonense",
+    "gentilicio": "limonense",
+    "lugar": "Limón",
+    "pais": "Costa Rica",
+    "region": "Limón",
+    "coordenadas": [
+      9.99,
+      -83.03
+    ],
+    "nivel": 2,
+    "formato": "normal",
+    "falsas": [
+      "Lima",
+      "Limache"
+    ],
+    "explicacion": "De Limón, con el sufijo -ense. Los de Lima son limeños.",
+    "curiosidad": "Es el gran puerto caribeño de Costa Rica.",
+    "otras_formas": []
+  },
+  {
+    "id": "chapin",
+    "gentilicio": "chapín",
+    "lugar": "Guatemala",
+    "pais": "Guatemala",
+    "region": "Centroamérica",
+    "coordenadas": [
+      14.634,
+      -90.507
+    ],
+    "nivel": 2,
+    "formato": "normal",
+    "falsas": [
+      "El Salvador",
+      "Honduras"
+    ],
+    "explicacion": "Es el gentilicio popular de los guatemaltecos. Se suele relacionar con el chapín, un antiguo calzado de corcho.",
+    "otras_formas": [
+      "guatemalteco"
+    ],
+    "revisar": true
+  },
+  {
+    "id": "barcinonense",
+    "gentilicio": "barcinonense",
+    "lugar": "Barcelona",
+    "etiqueta": "Barcelona (España)",
+    "pais": "España",
+    "region": "Cataluña",
+    "coordenadas": [
+      41.385,
+      2.173
+    ],
+    "nivel": 2,
+    "formato": "normal",
+    "falsas": [
+      "Barcelona (Venezuela)",
+      "Barcelos"
+    ],
+    "explicacion": "Viene de Barcino, el nombre romano de Barcelona. Es una forma culta; lo corriente es barcelonés.",
+    "otras_formas": [
+      "barcelonés"
+    ]
+  },
+  {
+    "id": "pamplonica",
+    "gentilicio": "pamplonica",
+    "lugar": "Pamplona",
+    "etiqueta": "Pamplona (España)",
+    "pais": "España",
+    "region": "Navarra",
+    "coordenadas": [
+      42.812,
+      -1.645
+    ],
+    "nivel": 2,
+    "formato": "normal",
+    "falsas": [
+      "Pamplona (Colombia)",
+      "Plasencia"
+    ],
+    "explicacion": "Es la forma coloquial; también se dice pamplonés y, en culto, pompelonense, de Pompaelo, la ciudad de Pompeyo.",
+    "otras_formas": [
+      "pamplonés",
+      "pompelonense"
+    ]
+  },
+  {
+    "id": "acapulqueno",
+    "gentilicio": "acapulqueño",
+    "lugar": "Acapulco",
+    "pais": "México",
+    "region": "Guerrero",
+    "coordenadas": [
+      16.853,
+      -99.882
+    ],
+    "nivel": 2,
+    "formato": "normal",
+    "falsas": [
+      "Apizaco",
+      "Acámbaro"
+    ],
+    "explicacion": "De Acapulco, con el sufijo -eño.",
+    "curiosidad": "Durante siglos fue el puerto del Galeón de Manila, que unía Nueva España con Filipinas.",
+    "otras_formas": []
+  },
+  {
+    "id": "urcitano",
+    "gentilicio": "urcitano",
+    "lugar": "Almería",
+    "pais": "España",
+    "region": "Andalucía",
+    "coordenadas": [
+      36.84,
+      -2.464
+    ],
+    "nivel": 3,
+    "formato": "normal",
+    "falsas": [
+      "Orce",
+      "Huércal-Overa"
+    ],
+    "explicacion": "Viene de Urci, una ciudad antigua de la zona. Lo corriente es almeriense.",
+    "otras_formas": [
+      "almeriense"
+    ],
+    "revisar": true
+  },
+  {
+    "id": "egabrense",
+    "gentilicio": "egabrense",
+    "lugar": "Cabra",
+    "pais": "España",
+    "region": "Andalucía",
+    "coordenadas": [
+      37.472,
+      -4.442
+    ],
+    "nivel": 3,
+    "formato": "normal",
+    "falsas": [
+      "Estepa",
+      "Ejea de los Caballeros"
+    ],
+    "explicacion": "Viene de Igabrum, el nombre romano de Cabra, en Córdoba.",
+    "curiosidad": "Allí nació el escritor Juan Valera, autor de «Pepita Jiménez».",
+    "otras_formas": []
+  },
+  {
+    "id": "setabense",
+    "gentilicio": "setabense",
+    "lugar": "Xàtiva",
+    "pais": "España",
+    "region": "Comunidad Valenciana",
+    "coordenadas": [
+      38.99,
+      -0.519
+    ],
+    "nivel": 3,
+    "formato": "normal",
+    "falsas": [
+      "Sedaví",
+      "Segorbe"
+    ],
+    "explicacion": "Viene de Saetabis, el nombre ibero y romano de Xàtiva. También se dice jativés.",
+    "curiosidad": "En Xàtiva se fabricó uno de los primeros papeles de Europa, en época andalusí. Allí nacieron los papas Borja Calixto III y Alejandro VI.",
+    "otras_formas": [
+      "jativés",
+      "saetabense"
+    ]
+  },
+  {
+    "id": "dertosense",
+    "gentilicio": "dertosense",
+    "lugar": "Tortosa",
+    "pais": "España",
+    "region": "Cataluña",
+    "coordenadas": [
+      40.812,
+      0.521
+    ],
+    "nivel": 3,
+    "formato": "normal",
+    "falsas": [
+      "Tordesillas",
+      "Tarazona"
+    ],
+    "explicacion": "Viene de Dertosa, el nombre romano de Tortosa, a orillas del Ebro. También se dice tortosino.",
+    "otras_formas": [
+      "tortosino"
+    ]
+  },
+  {
+    "id": "iriense",
+    "gentilicio": "iriense",
+    "lugar": "Padrón",
+    "pais": "España",
+    "region": "Galicia",
+    "coordenadas": [
+      42.739,
+      -8.66
+    ],
+    "nivel": 3,
+    "formato": "normal",
+    "falsas": [
+      "Irún",
+      "Ribeira"
+    ],
+    "explicacion": "Viene de Iria Flavia, la antigua ciudad junto a la que está Padrón. También se dice padronés.",
+    "curiosidad": "Allí nació Camilo José Cela, Nobel de Literatura en 1989. Y de allí son los pimientos de Padrón: «unos pican y otros no».",
+    "otras_formas": [
+      "padronés"
+    ]
+  },
+  {
+    "id": "mindoniense",
+    "gentilicio": "mindoniense",
+    "lugar": "Mondoñedo",
+    "pais": "España",
+    "region": "Galicia",
+    "coordenadas": [
+      43.428,
+      -7.363
+    ],
+    "nivel": 3,
+    "formato": "normal",
+    "falsas": [
+      "Mondragón",
+      "Medina Sidonia"
+    ],
+    "explicacion": "Viene de Mindonia, la forma latina medieval de Mondoñedo.",
+    "curiosidad": "Fue una de las siete capitales del antiguo Reino de Galicia.",
+    "otras_formas": []
+  },
+  {
+    "id": "asturicense",
+    "gentilicio": "asturicense",
+    "lugar": "Astorga",
+    "pais": "España",
+    "region": "Castilla y León",
+    "coordenadas": [
+      42.458,
+      -6.056
+    ],
+    "nivel": 3,
+    "formato": "normal",
+    "falsas": [
+      "Asturias",
+      "Estella"
+    ],
+    "explicacion": "Viene de Asturica Augusta, el nombre romano de Astorga. Ojo: los de Asturias son asturianos. También se dice astorgano.",
+    "curiosidad": "Su palacio episcopal es obra de Gaudí.",
+    "otras_formas": [
+      "astorgano"
+    ]
+  },
+  {
+    "id": "ebusitano",
+    "gentilicio": "ebusitano",
+    "lugar": "Ibiza",
+    "pais": "España",
+    "region": "Islas Baleares",
+    "coordenadas": [
+      38.98,
+      1.43
+    ],
+    "nivel": 3,
+    "formato": "normal",
+    "falsas": [
+      "Ubrique",
+      "Burriana"
+    ],
+    "explicacion": "Viene de Ebusus, el nombre romano de Ibiza, y este del púnico. Lo corriente es ibicenco.",
+    "otras_formas": [
+      "ibicenco"
+    ]
+  },
+  {
+    "id": "cauriense",
+    "gentilicio": "cauriense",
+    "lugar": "Coria",
+    "etiqueta": "Coria (Cáceres)",
+    "pais": "España",
+    "region": "Extremadura",
+    "coordenadas": [
+      39.986,
+      -6.536
+    ],
+    "nivel": 3,
+    "formato": "normal",
+    "falsas": [
+      "Coria del Río",
+      "Ourense"
+    ],
+    "explicacion": "Viene de Caurium, el nombre romano de Coria, en Cáceres. Los de Coria del Río, en Sevilla, son corianos.",
+    "otras_formas": [
+      "coriano"
+    ]
+  },
+  {
+    "id": "optense",
+    "gentilicio": "optense",
+    "lugar": "Huete",
+    "pais": "España",
+    "region": "Castilla-La Mancha",
+    "coordenadas": [
+      40.143,
+      -2.687
+    ],
+    "nivel": 3,
+    "formato": "normal",
+    "falsas": [
+      "Olite",
+      "Oropesa"
+    ],
+    "explicacion": "Viene de Opta, la forma latina medieval del nombre de Huete, en Cuenca.",
+    "otras_formas": [],
+    "revisar": true
+  },
+  {
+    "id": "penquista",
+    "gentilicio": "penquista",
+    "lugar": "Concepción",
+    "etiqueta": "Concepción (Chile)",
+    "pais": "Chile",
+    "region": "Biobío",
+    "coordenadas": [
+      -36.827,
+      -73.05
+    ],
+    "nivel": 3,
+    "formato": "normal",
+    "falsas": [
+      "Concepción (Paraguay)",
+      "Puerto Montt"
+    ],
+    "explicacion": "Viene de Penco, donde se fundó la ciudad en 1550. Tras varios terremotos y maremotos se trasladó en el siglo XVIII, pero sus vecinos siguieron siendo penquistas.",
+    "otras_formas": []
+  },
+  {
+    "id": "bahiense",
+    "gentilicio": "bahiense",
+    "lugar": "Bahía Blanca",
+    "pais": "Argentina",
+    "region": "Buenos Aires",
+    "coordenadas": [
+      -38.719,
+      -62.272
+    ],
+    "nivel": 3,
+    "formato": "normal",
+    "falsas": [
+      "Bahía Solano",
+      "Bahía de Caráquez"
+    ],
+    "explicacion": "De Bahía, con el sufijo -ense. El nombre de la ciudad viene del color blanco de las salinas de su costa.",
+    "otras_formas": []
+  },
+  {
+    "id": "chuquisaqueno",
+    "gentilicio": "chuquisaqueño",
+    "lugar": "Sucre",
+    "pais": "Bolivia",
+    "region": "Chuquisaca",
+    "coordenadas": [
+      -19.047,
+      -65.26
+    ],
+    "nivel": 3,
+    "formato": "normal",
+    "falsas": [
+      "Chuquicamata",
+      "Cochabamba"
+    ],
+    "explicacion": "Viene de Chuquisaca, el antiguo nombre de Sucre, que hoy designa al departamento. También se dice sucrense.",
+    "curiosidad": "Sucre es la capital constitucional de Bolivia, aunque el Gobierno está en La Paz.",
+    "otras_formas": [
+      "sucrense"
+    ]
+  },
+  {
+    "id": "catracho",
+    "gentilicio": "catracho",
+    "lugar": "Honduras",
+    "pais": "Honduras",
+    "region": "Centroamérica",
+    "coordenadas": [
+      14.08,
+      -87.2
+    ],
+    "nivel": 3,
+    "formato": "reves",
+    "falsas": [
+      "chapín",
+      "nica"
+    ],
+    "explicacion": "Es el gentilicio popular de los hondureños. Se suele relacionar con el apellido del general Florencio Xatruch, que mandó las tropas hondureñas contra el filibustero William Walker.",
+    "curiosidad": "Chapín es el gentilicio popular de los guatemaltecos, y nica, el de los nicaragüenses.",
+    "otras_formas": [
+      "hondureño"
+    ],
+    "revisar": true
+  },
+  {
+    "id": "guanaco",
+    "gentilicio": "guanaco",
+    "lugar": "El Salvador",
+    "pais": "El Salvador",
+    "region": "Centroamérica",
+    "coordenadas": [
+      13.7,
+      -89.2
+    ],
+    "nivel": 3,
+    "formato": "normal",
+    "falsas": [
+      "Honduras",
+      "Guatemala"
+    ],
+    "explicacion": "Es el gentilicio popular de los salvadoreños en Centroamérica, como recoge el diccionario.",
+    "otras_formas": [
+      "salvadoreño"
+    ],
+    "revisar": true
+  },
+  {
+    "id": "ostipense",
+    "gentilicio": "ostipense",
+    "lugar": "Estepa",
+    "pais": "España",
+    "region": "Andalucía",
+    "coordenadas": [
+      37.293,
+      -4.877
+    ],
+    "nivel": 3,
+    "formato": "normal",
+    "falsas": [
+      "Estepona",
+      "Osuna"
+    ],
+    "explicacion": "Viene de Ostippo, el nombre romano de Estepa. También se dice estepeño. Los de Estepona son esteponeros.",
+    "curiosidad": "Estepa es la capital de los mantecados y los polvorones.",
+    "otras_formas": [
+      "estepeño"
+    ],
+    "revisar": true
+  },
+  {
+    "id": "iliberitano",
+    "gentilicio": "iliberitano",
+    "lugar": "Granada",
+    "pais": "España",
+    "region": "Andalucía",
+    "coordenadas": [
+      37.177,
+      -3.599
+    ],
+    "nivel": 3,
+    "formato": "normal",
+    "falsas": [
+      "Íllora",
+      "Villena"
+    ],
+    "explicacion": "Viene de Iliberri o Iliberis, la ciudad ibera y romana sobre la que creció Granada. Lo corriente es granadino.",
+    "otras_formas": [
+      "granadino",
+      "iliberritano"
+    ]
+  },
+  {
+    "id": "vicense",
+    "gentilicio": "vicense",
+    "lugar": "Vic",
+    "pais": "España",
+    "region": "Cataluña",
+    "coordenadas": [
+      41.93,
+      2.255
+    ],
+    "nivel": 3,
+    "formato": "normal",
+    "falsas": [
+      "Vigo",
+      "Vícar"
+    ],
+    "explicacion": "De Vic, con el sufijo -ense. En catalán se dice vigatà, y en culto, ausetano, por los ausetanos, el pueblo ibero de la comarca.",
+    "otras_formas": [
+      "ausetano"
+    ],
+    "revisar": true
+  },
+  {
+    "id": "jacetano",
+    "gentilicio": "jacetano",
+    "lugar": "Jaca",
+    "pais": "España",
+    "region": "Aragón",
+    "coordenadas": [
+      42.57,
+      -0.549
+    ],
+    "nivel": 3,
+    "formato": "normal",
+    "falsas": [
+      "Jaén",
+      "Jávea"
+    ],
+    "explicacion": "Viene de Iacca, el nombre antiguo de Jaca, y de los iacetanos, el pueblo que la habitaba.",
+    "curiosidad": "Fue la primera capital del Reino de Aragón.",
+    "otras_formas": []
+  },
+  {
+    "id": "darocense",
+    "gentilicio": "darocense",
+    "lugar": "Daroca",
+    "pais": "España",
+    "region": "Aragón",
+    "coordenadas": [
+      41.115,
+      -1.414
+    ],
+    "nivel": 3,
+    "formato": "normal",
+    "falsas": [
+      "Dos Hermanas",
+      "Daimiel"
+    ],
+    "explicacion": "De Daroca, con el sufijo -ense.",
+    "curiosidad": "Su recinto amurallado, de casi cuatro kilómetros, conserva más de cien torres y torreones.",
+    "otras_formas": []
+  },
+  {
+    "id": "barbastrense",
+    "gentilicio": "barbastrense",
+    "lugar": "Barbastro",
+    "pais": "España",
+    "region": "Aragón",
+    "coordenadas": [
+      42.035,
+      0.126
+    ],
+    "nivel": 3,
+    "formato": "normal",
+    "falsas": [
+      "Barbate",
+      "Balaguer"
+    ],
+    "explicacion": "De Barbastro, con el sufijo -ense.",
+    "curiosidad": "En 1064 sufrió un asedio que algunos historiadores consideran una precruzada.",
+    "otras_formas": []
+  },
+  {
+    "id": "celsonense",
+    "gentilicio": "celsonense",
+    "lugar": "Solsona",
+    "pais": "España",
+    "region": "Cataluña",
+    "coordenadas": [
+      41.994,
+      1.518
+    ],
+    "nivel": 3,
+    "formato": "normal",
+    "falsas": [
+      "Celanova",
+      "Sonseca"
+    ],
+    "explicacion": "Viene de Celsona, la forma latina del nombre de Solsona. También se dice solsonés.",
+    "otras_formas": [
+      "solsonés"
+    ],
+    "revisar": true
+  },
+  {
+    "id": "segobricense",
+    "gentilicio": "segobricense",
+    "lugar": "Segorbe",
+    "pais": "España",
+    "region": "Comunidad Valenciana",
+    "coordenadas": [
+      39.852,
+      -0.489
+    ],
+    "nivel": 3,
+    "formato": "normal",
+    "falsas": [
+      "Segovia",
+      "Sigüenza"
+    ],
+    "explicacion": "Viene de Segobriga, nombre que se atribuyó a Segorbe durante siglos, aunque la Segóbriga romana estaba en Cuenca. También se dice segorbino.",
+    "otras_formas": [
+      "segorbino"
+    ],
+    "revisar": true
+  },
+  {
+    "id": "arundense",
+    "gentilicio": "arundense",
+    "lugar": "Ronda",
+    "pais": "España",
+    "region": "Andalucía",
+    "coordenadas": [
+      36.742,
+      -5.167
+    ],
+    "nivel": 3,
+    "formato": "normal",
+    "falsas": [
+      "Arnedo",
+      "Aranda de Duero"
+    ],
+    "explicacion": "Viene de Arunda, el nombre antiguo de Ronda. Lo corriente es rondeño.",
+    "curiosidad": "Su Puente Nuevo salva el Tajo, un desfiladero de unos cien metros de profundidad.",
+    "otras_formas": [
+      "rondeño"
+    ]
+  },
+  {
+    "id": "sexitano",
+    "gentilicio": "sexitano",
+    "lugar": "Almuñécar",
+    "pais": "España",
+    "region": "Andalucía",
+    "coordenadas": [
+      36.733,
+      -3.69
+    ],
+    "nivel": 3,
+    "formato": "normal",
+    "falsas": [
+      "Sax",
+      "Jérica"
+    ],
+    "explicacion": "Viene de Sexi, la colonia fenicia sobre la que se asienta Almuñécar, en Granada. También se dice almuñequero.",
+    "otras_formas": [
+      "almuñequero"
+    ]
+  },
+  {
+    "id": "bastetano",
+    "gentilicio": "bastetano",
+    "lugar": "Baza",
+    "pais": "España",
+    "region": "Andalucía",
+    "coordenadas": [
+      37.49,
+      -2.77
+    ],
+    "nivel": 3,
+    "formato": "normal",
+    "falsas": [
+      "Baeza",
+      "Barbastro"
+    ],
+    "explicacion": "Viene de Basti, la ciudad ibera de la que procede Baza, en Granada, y de los bastetanos, el pueblo de la zona. También se dice bastitano.",
+    "curiosidad": "Allí apareció en 1971 la Dama de Baza, una escultura ibera sedente.",
+    "otras_formas": [
+      "bastitano"
+    ]
+  },
+  {
+    "id": "pinolero",
+    "gentilicio": "pinolero",
+    "lugar": "Nicaragua",
+    "pais": "Nicaragua",
+    "region": "Centroamérica",
+    "coordenadas": [
+      12.865,
+      -85.207
+    ],
+    "nivel": 3,
+    "formato": "normal",
+    "falsas": [
+      "Panamá",
+      "Paraguay"
+    ],
+    "explicacion": "Es el gentilicio popular de los nicaragüenses, por el pinol, una bebida de maíz tostado muy tradicional.",
+    "otras_formas": [
+      "nicaragüense",
+      "nica"
+    ]
+  },
+  {
+    "id": "cumanes",
+    "gentilicio": "cumanés",
+    "lugar": "Cumaná",
+    "pais": "Venezuela",
+    "region": "Sucre",
+    "coordenadas": [
+      10.456,
+      -64.167
+    ],
+    "nivel": 3,
+    "formato": "normal",
+    "falsas": [
+      "Cúcuta",
+      "Comayagua"
+    ],
+    "explicacion": "De Cumaná, con el sufijo -és. También se dice cumanagoto.",
+    "curiosidad": "Fundada en 1515, presume de ser la ciudad más antigua de la Sudamérica continental.",
+    "otras_formas": [
+      "cumanagoto"
+    ],
+    "revisar": true
+  },
+  {
+    "id": "cuyano",
+    "gentilicio": "cuyano",
+    "lugar": "Cuyo",
+    "pais": "Argentina",
+    "region": "Mendoza, San Juan y San Luis",
+    "coordenadas": [
+      -32.89,
+      -68.83
+    ],
+    "nivel": 3,
+    "formato": "normal",
+    "falsas": [
+      "Chaco",
+      "Cusco"
+    ],
+    "explicacion": "Es el gentilicio de la región de Cuyo, al pie de los Andes, que forman Mendoza, San Juan y San Luis.",
+    "curiosidad": "Es la gran región vinícola de Argentina.",
+    "otras_formas": []
+  },
+  {
+    "id": "caspolino",
+    "gentilicio": "caspolino",
+    "lugar": "Caspe",
+    "pais": "España",
+    "region": "Aragón",
+    "coordenadas": [
+      41.236,
+      -0.04
+    ],
+    "nivel": 3,
+    "formato": "normal",
+    "falsas": [
+      "Cáceres",
+      "Cuéllar"
+    ],
+    "explicacion": "De Caspe, con el sufijo -ino.",
+    "curiosidad": "En el Compromiso de Caspe (1412) se eligió rey de Aragón a Fernando de Antequera.",
+    "otras_formas": [],
+    "revisar": true
   }
 ]
