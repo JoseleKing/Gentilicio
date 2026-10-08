@@ -61,8 +61,7 @@
     "curiosidad": "La romería de la Virgen de la Cabeza, en la sierra de Andújar, se celebra el último domingo de abril.",
     "otras_formas": [
       "andujareño"
-    ],
-    "revisar": true
+    ]
   },
   {
     "id": "tapatio",
@@ -84,8 +83,7 @@
     "explicacion": "Es el gentilicio popular de Guadalajara, en Jalisco; el formal es guadalajarense. Su origen es discutido: la explicación más citada lo relaciona con tlapatiotl, voz náhuatl para un pequeño fardo de mercancía que servía de moneda.",
     "otras_formas": [
       "guadalajarense"
-    ],
-    "revisar": true
+    ]
   },
   {
     "id": "santiaguero",
@@ -235,8 +233,7 @@
     "otras_formas": [
       "badajocense",
       "badajoceño"
-    ],
-    "revisar": true
+    ]
   },
   {
     "id": "bilbilitano",
@@ -363,8 +360,7 @@
     ],
     "explicacion": "Sanjuanino es de San Juan, en Argentina. Los de San Juan de Puerto Rico son sanjuaneros.",
     "curiosidad": "Es la tierra natal de Domingo Faustino Sarmiento, presidente argentino y autor de Facundo.",
-    "otras_formas": [],
-    "revisar": true
+    "otras_formas": []
   },
   {
     "id": "nebrisense",
@@ -454,8 +450,7 @@
     "curiosidad": "Según la tradición, su primer obispo fue san Torcuato, uno de los siete varones apostólicos.",
     "otras_formas": [
       "guadijeño"
-    ],
-    "revisar": true
+    ]
   },
   {
     "id": "gerundense",
@@ -647,8 +642,7 @@
     "curiosidad": "Por el calor de sus veranos la llaman «la sartén de Andalucía».",
     "otras_formas": [
       "ecijano"
-    ],
-    "revisar": true
+    ]
   },
   {
     "id": "abulense",
@@ -1067,8 +1061,7 @@
     "explicacion": "Es el gentilicio coloquial de la capital mexicana; el formal es capitalino. Su origen es discutido: una propuesta lo relaciona con una voz maya, xilaan, «despeinado».",
     "otras_formas": [
       "capitalino"
-    ],
-    "revisar": true
+    ]
   },
   {
     "id": "turolense",
@@ -1333,8 +1326,7 @@
     ],
     "explicacion": "De Campeche, con el sufijo -ano.",
     "curiosidad": "El adjetivo «campechano», afable y sencillo, se suele relacionar con la ciudad, aunque la conexión no está clara.",
-    "otras_formas": [],
-    "revisar": true
+    "otras_formas": []
   },
   {
     "id": "santafesino",
@@ -1822,8 +1814,7 @@
     "explicacion": "Es el gentilicio popular de los guatemaltecos. Se suele relacionar con el chapín, un antiguo calzado de corcho.",
     "otras_formas": [
       "guatemalteco"
-    ],
-    "revisar": true
+    ]
   },
   {
     "id": "barcinonense",
@@ -1909,8 +1900,7 @@
     "explicacion": "Viene de Urci, una ciudad antigua de la zona. Lo corriente es almeriense.",
     "otras_formas": [
       "almeriense"
-    ],
-    "revisar": true
+    ]
   },
   {
     "id": "egabrense",
@@ -2100,8 +2090,7 @@
       "Oropesa"
     ],
     "explicacion": "Viene de Opta, la forma latina medieval del nombre de Huete, en Cuenca.",
-    "otras_formas": [],
-    "revisar": true
+    "otras_formas": []
   },
   {
     "id": "penquista",
@@ -2184,8 +2173,7 @@
     "curiosidad": "Chapín es el gentilicio popular de los guatemaltecos, y nica, el de los nicaragüenses.",
     "otras_formas": [
       "hondureño"
-    ],
-    "revisar": true
+    ]
   },
   {
     "id": "guanaco",
@@ -2203,11 +2191,10 @@
       "Honduras",
       "Guatemala"
     ],
-    "explicacion": "Es el gentilicio popular de los salvadoreños en Centroamérica, como recoge el diccionario.",
+    "explicacion": "Es el gentilicio popular de los salvadoreños en Centroamérica.",
     "otras_formas": [
       "salvadoreño"
-    ],
-    "revisar": true
+    ]
   },
   {
     "id": "ostipense",
@@ -2229,8 +2216,7 @@
     "curiosidad": "Estepa es la capital de los mantecados y los polvorones.",
     "otras_formas": [
       "estepeño"
-    ],
-    "revisar": true
+    ]
   },
   {
     "id": "iliberitano",
@@ -2273,8 +2259,7 @@
     "explicacion": "De Vic, con el sufijo -ense. En catalán se dice vigatà, y en culto, ausetano, por los ausetanos, el pueblo ibero de la comarca.",
     "otras_formas": [
       "ausetano"
-    ],
-    "revisar": true
+    ]
   },
   {
     "id": "jacetano",
@@ -2355,8 +2340,7 @@
     "explicacion": "Viene de Celsona, la forma latina del nombre de Solsona. También se dice solsonés.",
     "otras_formas": [
       "solsonés"
-    ],
-    "revisar": true
+    ]
   },
   {
     "id": "segobricense",
@@ -2377,8 +2361,7 @@
     "explicacion": "Viene de Segobriga, nombre que se atribuyó a Segorbe durante siglos, aunque la Segóbriga romana estaba en Cuenca. También se dice segorbino.",
     "otras_formas": [
       "segorbino"
-    ],
-    "revisar": true
+    ]
   },
   {
     "id": "arundense",
@@ -2483,12 +2466,11 @@
       "Cúcuta",
       "Comayagua"
     ],
-    "explicacion": "De Cumaná, con el sufijo -és. También se dice cumanagoto.",
+    "explicacion": "De Cumaná, con el sufijo -és.",
     "curiosidad": "Fundada en 1515, presume de ser la ciudad más antigua de la Sudamérica continental.",
     "otras_formas": [
       "cumanagoto"
-    ],
-    "revisar": true
+    ]
   },
   {
     "id": "cuyano",
@@ -2528,8 +2510,7 @@
     ],
     "explicacion": "De Caspe, con el sufijo -ino.",
     "curiosidad": "En el Compromiso de Caspe (1412) se eligió rey de Aragón a Fernando de Antequera.",
-    "otras_formas": [],
-    "revisar": true
+    "otras_formas": []
   },
   {
     "id": "cacereño",
@@ -3027,8 +3008,7 @@
     "curiosidad": "Comparte gentilicio con los de la Abdera griega, la patria de Demócrito.",
     "otras_formas": [
       "abderense"
-    ],
-    "revisar": true
+    ]
   },
   {
     "id": "chihuahuense",
@@ -3088,8 +3068,7 @@
     ],
     "explicacion": "Viene de Ilipa, la ciudad romana que estaba en el lugar.",
     "curiosidad": "Junto a Ilipa se libró en el 206 a. C. una batalla decisiva entre romanos y cartagineses.",
-    "otras_formas": [],
-    "revisar": true
+    "otras_formas": []
   },
   {
     "id": "vitoriano",
@@ -3520,8 +3499,7 @@
     ],
     "explicacion": "Se forma sobre la segunda parte del nombre. Según la explicación tradicional, Paysandú es 'pay Sandú', el padre Sandú.",
     "curiosidad": "Es la tercera ciudad de Uruguay, a orillas del río Uruguay.",
-    "otras_formas": [],
-    "revisar": true
+    "otras_formas": []
   },
   {
     "id": "mendocino",
@@ -3823,8 +3801,7 @@
     ],
     "explicacion": "Se forma sobre Beni, el río que da nombre al departamento.",
     "curiosidad": "Sus llanos se inundan cada año en la temporada de lluvias.",
-    "otras_formas": [],
-    "revisar": true
+    "otras_formas": []
   },
   {
     "id": "tunjano",
@@ -3946,8 +3923,7 @@
     "curiosidad": "Su tortilla de patatas, poco cuajada, es famosa en toda España.",
     "otras_formas": [
       "betanceiro"
-    ],
-    "revisar": true
+    ]
   },
   {
     "id": "segoviano",
