@@ -5,8 +5,16 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
   <title>Gentilicio</title>
   <meta name="description" content="Tres gentilicios al día: adivina de dónde son y descubre de dónde viene su nombre.">
-  <meta name="theme-color" content="#F4EBDD" media="(prefers-color-scheme: light)">
-  <meta name="theme-color" content="#16202C" media="(prefers-color-scheme: dark)">
+  <meta name="theme-color" content="#F4EBDD">
+  <script>
+    // Modo claro u oscuro: el que se elija en Almanaque, común a todos los juegos. Sin elegir, claro.
+    try {
+      if (localStorage.getItem('almanaque:tema') === 'dark') {
+        document.documentElement.dataset.theme = 'dark';
+        document.querySelector('meta[name="theme-color"]').content = '#16202C';
+      }
+    } catch (e) {}
+  </script>
   <link rel="manifest" href="manifest.json">
   <link rel="icon" href="icons/icon.svg" type="image/svg+xml">
   <link rel="icon" href="icons/favicon-32.png" type="image/png" sizes="32x32">
@@ -29,7 +37,8 @@
     #portada img { width: 7.5rem; height: 7.5rem; border-radius: 22%; box-shadow: 0 0 0 1px #C9B79A; animation: asomar 0.5s ease-out; }
     #portada p { margin: 0; font: 2.4rem/1 "IM Fell English", Georgia, serif; animation: asomar 0.5s ease-out; }
     #portada.oculta { opacity: 0; visibility: hidden; }
-    @media (prefers-color-scheme: dark) { #portada { background: #16202C; color: #EFE6D6; } #portada img { box-shadow: 0 0 0 1px #3A4858; } }
+    [data-theme="dark"] #portada { background: #16202C; color: #EFE6D6; }
+    [data-theme="dark"] #portada img { box-shadow: 0 0 0 1px #3A4858; }
     @keyframes asomar { from { opacity: 0; transform: scale(0.9); } }
   </style>
 </head>
