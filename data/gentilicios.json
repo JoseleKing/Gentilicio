@@ -2530,5 +2530,1848 @@
     "curiosidad": "En el Compromiso de Caspe (1412) se eligió rey de Aragón a Fernando de Antequera.",
     "otras_formas": [],
     "revisar": true
+  },
+  {
+    "id": "cacereño",
+    "gentilicio": "cacereño",
+    "lugar": "Cáceres",
+    "pais": "España",
+    "region": "Extremadura",
+    "coordenadas": [
+      39.474,
+      -6.372
+    ],
+    "nivel": 1,
+    "formato": "normal",
+    "falsas": [
+      "Cazorla",
+      "Cuéllar"
+    ],
+    "explicacion": "Se forma sobre Cáceres, que viene del árabe Qazris, quizá del latín castra, 'campamento'.",
+    "curiosidad": "Su casco antiguo, amurallado y lleno de torres, es patrimonio de la humanidad desde 1986.",
+    "otras_formas": []
+  },
+  {
+    "id": "palmesano",
+    "gentilicio": "palmesano",
+    "lugar": "Palma",
+    "etiqueta": "Palma (Mallorca)",
+    "pais": "España",
+    "region": "Islas Baleares",
+    "coordenadas": [
+      39.57,
+      2.65
+    ],
+    "nivel": 2,
+    "formato": "normal",
+    "falsas": [
+      "Las Palmas de Gran Canaria",
+      "La Palma"
+    ],
+    "explicacion": "Se forma sobre Palma. Ojo: los de Las Palmas son palmenses, y los de la isla de La Palma, palmeros.",
+    "curiosidad": "Su catedral, la Seo, se asoma al mar sobre la antigua muralla.",
+    "otras_formas": []
+  },
+  {
+    "id": "turiasonense",
+    "gentilicio": "turiasonense",
+    "lugar": "Tarazona",
+    "pais": "España",
+    "region": "Aragón",
+    "coordenadas": [
+      41.905,
+      -1.725
+    ],
+    "nivel": 3,
+    "formato": "normal",
+    "falsas": [
+      "Tarragona",
+      "Turís"
+    ],
+    "explicacion": "Viene de Turiaso, el nombre romano de la ciudad.",
+    "curiosidad": "Cada 27 de agosto, el Cipotegato sale corriendo entre una lluvia de tomates.",
+    "otras_formas": []
+  },
+  {
+    "id": "zamorano",
+    "gentilicio": "zamorano",
+    "lugar": "Zamora",
+    "pais": "España",
+    "region": "Castilla y León",
+    "coordenadas": [
+      41.503,
+      -5.745
+    ],
+    "nivel": 1,
+    "formato": "normal",
+    "falsas": [
+      "Zafra",
+      "Zumaia"
+    ],
+    "explicacion": "Se forma sobre el nombre de la ciudad, de origen discutido.",
+    "curiosidad": "Del largo cerco de 1072 viene el dicho «No se ganó Zamora en una hora».",
+    "otras_formas": []
+  },
+  {
+    "id": "compostelano",
+    "gentilicio": "compostelano",
+    "lugar": "Santiago de Compostela",
+    "pais": "España",
+    "region": "Galicia",
+    "coordenadas": [
+      42.88,
+      -8.545
+    ],
+    "nivel": 2,
+    "formato": "normal",
+    "falsas": [
+      "Santiago de Chile",
+      "Santiago de Cuba"
+    ],
+    "explicacion": "Viene de Compostela. Los de Santiago de Chile son santiaguinos, y los de Santiago de Cuba, santiagueros.",
+    "curiosidad": "Es la meta del Camino de Santiago.",
+    "otras_formas": [
+      "santiagués"
+    ]
+  },
+  {
+    "id": "calceatense",
+    "gentilicio": "calceatense",
+    "lugar": "Santo Domingo de la Calzada",
+    "pais": "España",
+    "region": "La Rioja",
+    "coordenadas": [
+      42.44,
+      -2.953
+    ],
+    "nivel": 3,
+    "formato": "normal",
+    "falsas": [
+      "Calzada de Calatrava",
+      "Calahorra"
+    ],
+    "explicacion": "Viene de calceata, 'calzada', en latín medieval: la ciudad nació junto al Camino de Santiago.",
+    "curiosidad": "«Santo Domingo de la Calzada, donde cantó la gallina después de asada»: en la catedral hay un gallo y una gallina vivos.",
+    "otras_formas": []
+  },
+  {
+    "id": "palentino",
+    "gentilicio": "palentino",
+    "lugar": "Palencia",
+    "pais": "España",
+    "region": "Castilla y León",
+    "coordenadas": [
+      42.01,
+      -4.528
+    ],
+    "nivel": 1,
+    "formato": "normal",
+    "falsas": [
+      "Plasencia",
+      "Palamós"
+    ],
+    "explicacion": "Viene de Pallantia, el nombre de la ciudad en época romana.",
+    "curiosidad": "A principios del siglo XIII se fundó aquí el Estudio General de Palencia, la primera universidad de la península.",
+    "otras_formas": []
+  },
+  {
+    "id": "duranguense",
+    "gentilicio": "duranguense",
+    "lugar": "Durango",
+    "etiqueta": "Durango (México)",
+    "pais": "México",
+    "region": "Durango",
+    "coordenadas": [
+      24.027,
+      -104.653
+    ],
+    "nivel": 2,
+    "formato": "normal",
+    "falsas": [
+      "Durango (España)",
+      "Dolores Hidalgo"
+    ],
+    "explicacion": "La ciudad mexicana debe su nombre a la villa vizcaína de Durango, cuyos vecinos son durangueses.",
+    "curiosidad": "En sus alrededores se rodaron muchísimas películas del Oeste.",
+    "otras_formas": []
+  },
+  {
+    "id": "seguntino",
+    "gentilicio": "seguntino",
+    "lugar": "Sigüenza",
+    "pais": "España",
+    "region": "Castilla-La Mancha",
+    "coordenadas": [
+      41.068,
+      -2.643
+    ],
+    "nivel": 3,
+    "formato": "normal",
+    "falsas": [
+      "Sagunto",
+      "Segovia"
+    ],
+    "explicacion": "Viene de Segontia, su nombre en época romana. Ojo: saguntino es de Sagunto.",
+    "curiosidad": "En su catedral está el Doncel, una escultura funeraria que lee un libro.",
+    "otras_formas": []
+  },
+  {
+    "id": "soriano",
+    "gentilicio": "soriano",
+    "lugar": "Soria",
+    "pais": "España",
+    "region": "Castilla y León",
+    "coordenadas": [
+      41.764,
+      -2.465
+    ],
+    "nivel": 1,
+    "formato": "normal",
+    "falsas": [
+      "Sóller",
+      "Sort"
+    ],
+    "explicacion": "Se forma sobre el nombre de la ciudad, de origen incierto.",
+    "curiosidad": "Antonio Machado fue profesor en su instituto y le dedicó muchos poemas de «Campos de Castilla».",
+    "otras_formas": []
+  },
+  {
+    "id": "merideño",
+    "gentilicio": "merideño",
+    "lugar": "Mérida",
+    "etiqueta": "Mérida (Venezuela)",
+    "pais": "Venezuela",
+    "region": "Mérida",
+    "coordenadas": [
+      8.589,
+      -71.156
+    ],
+    "nivel": 2,
+    "formato": "normal",
+    "falsas": [
+      "Mérida (México)",
+      "Mérida (España)"
+    ],
+    "explicacion": "Se forma sobre Mérida. Los de la Mérida mexicana son meridanos, y los de la española, emeritenses.",
+    "curiosidad": "Desde ella sube uno de los teleféricos más altos y largos del mundo, hasta el pico Espejo.",
+    "otras_formas": []
+  },
+  {
+    "id": "ursaonense",
+    "gentilicio": "ursaonense",
+    "lugar": "Osuna",
+    "pais": "España",
+    "region": "Andalucía",
+    "coordenadas": [
+      37.237,
+      -5.103
+    ],
+    "nivel": 3,
+    "formato": "reves",
+    "falsas": [
+      "ostipense",
+      "astigitano"
+    ],
+    "explicacion": "Viene de Urso, el nombre de la ciudad en época romana. Los ostipenses son de Estepa y los astigitanos, de Écija.",
+    "curiosidad": "Se conservan en bronce partes de la ley de la colonia romana, la Lex Ursonensis.",
+    "otras_formas": [
+      "osunense"
+    ]
+  },
+  {
+    "id": "alicantino",
+    "gentilicio": "alicantino",
+    "lugar": "Alicante",
+    "pais": "España",
+    "region": "Comunidad Valenciana",
+    "coordenadas": [
+      38.345,
+      -0.481
+    ],
+    "nivel": 1,
+    "formato": "normal",
+    "falsas": [
+      "Alcañiz",
+      "Almansa"
+    ],
+    "explicacion": "Se forma sobre Alicante, del árabe Laqant, que a su vez viene del latín Lucentum. De ahí la forma culta lucentino.",
+    "curiosidad": "Las Hogueras de San Juan son sus fiestas mayores.",
+    "otras_formas": [
+      "lucentino"
+    ]
+  },
+  {
+    "id": "lojano",
+    "gentilicio": "lojano",
+    "lugar": "Loja",
+    "etiqueta": "Loja (Ecuador)",
+    "pais": "Ecuador",
+    "region": "Loja",
+    "coordenadas": [
+      -3.993,
+      -79.204
+    ],
+    "nivel": 2,
+    "formato": "normal",
+    "falsas": [
+      "Loja (España)",
+      "Lorca"
+    ],
+    "explicacion": "Se forma sobre Loja. Los de la Loja granadina son lojeños.",
+    "curiosidad": "La llaman la cuna de la música ecuatoriana.",
+    "otras_formas": []
+  },
+  {
+    "id": "placentino",
+    "gentilicio": "placentino",
+    "lugar": "Plasencia",
+    "pais": "España",
+    "region": "Extremadura",
+    "coordenadas": [
+      40.03,
+      -6.088
+    ],
+    "nivel": 3,
+    "formato": "normal",
+    "falsas": [
+      "Palencia",
+      "Pals"
+    ],
+    "explicacion": "Viene de Plasencia, fundada por Alfonso VIII con el lema «para que plazca a Dios y a los hombres».",
+    "curiosidad": "Tiene dos catedrales, una vieja y una nueva, pegadas.",
+    "otras_formas": [
+      "plasenciano"
+    ]
+  },
+  {
+    "id": "castellonense",
+    "gentilicio": "castellonense",
+    "lugar": "Castellón de la Plana",
+    "pais": "España",
+    "region": "Comunidad Valenciana",
+    "coordenadas": [
+      39.986,
+      -0.051
+    ],
+    "nivel": 1,
+    "formato": "normal",
+    "falsas": [
+      "Castelldefels",
+      "Castro Urdiales"
+    ],
+    "explicacion": "Viene de Castellón, 'castillo grande'; la ciudad bajó del cerro a la llanura en 1251.",
+    "curiosidad": "Sus fiestas de la Magdalena recuerdan aquel traslado a la plana.",
+    "otras_formas": []
+  },
+  {
+    "id": "samario",
+    "gentilicio": "samario",
+    "lugar": "Santa Marta",
+    "pais": "Colombia",
+    "region": "Magdalena",
+    "coordenadas": [
+      11.241,
+      -74.199
+    ],
+    "nivel": 2,
+    "formato": "normal",
+    "falsas": [
+      "Samaná",
+      "Santa Ana (El Salvador)"
+    ],
+    "explicacion": "Se forma sobre la primera parte del nombre de la ciudad.",
+    "curiosidad": "Fundada en 1525, es la ciudad más antigua de Colombia que sigue en pie. Allí murió Simón Bolívar.",
+    "otras_formas": []
+  },
+  {
+    "id": "iluronense",
+    "gentilicio": "iluronense",
+    "lugar": "Mataró",
+    "pais": "España",
+    "region": "Cataluña",
+    "coordenadas": [
+      41.54,
+      2.444
+    ],
+    "nivel": 3,
+    "formato": "normal",
+    "falsas": [
+      "Lloret de Mar",
+      "Íllora"
+    ],
+    "explicacion": "Viene de Iluro, el nombre de la ciudad en época romana.",
+    "curiosidad": "El primer tren de la península unió Barcelona y Mataró en 1848.",
+    "otras_formas": [
+      "mataronés"
+    ]
+  },
+  {
+    "id": "coruñés",
+    "gentilicio": "coruñés",
+    "lugar": "A Coruña",
+    "pais": "España",
+    "region": "Galicia",
+    "coordenadas": [
+      43.362,
+      -8.411
+    ],
+    "nivel": 1,
+    "formato": "normal",
+    "falsas": [
+      "Corella",
+      "Cuéllar"
+    ],
+    "explicacion": "Se forma sobre el nombre de la ciudad. La forma culta herculino viene de la Torre de Hércules.",
+    "curiosidad": "La Torre de Hércules es el faro romano más antiguo del mundo que sigue funcionando.",
+    "otras_formas": [
+      "herculino"
+    ]
+  },
+  {
+    "id": "pastuso",
+    "gentilicio": "pastuso",
+    "lugar": "Pasto",
+    "pais": "Colombia",
+    "region": "Nariño",
+    "coordenadas": [
+      1.214,
+      -77.281
+    ],
+    "nivel": 2,
+    "formato": "normal",
+    "falsas": [
+      "Pastrana",
+      "Pátzcuaro"
+    ],
+    "explicacion": "Viene de los pastos, el pueblo indígena de la región.",
+    "curiosidad": "Su Carnaval de Negros y Blancos es patrimonio inmaterial de la humanidad.",
+    "otras_formas": []
+  },
+  {
+    "id": "tudense",
+    "gentilicio": "tudense",
+    "lugar": "Tui",
+    "pais": "España",
+    "region": "Galicia",
+    "coordenadas": [
+      42.047,
+      -8.644
+    ],
+    "nivel": 3,
+    "formato": "normal",
+    "falsas": [
+      "Tudela",
+      "Tudanca"
+    ],
+    "explicacion": "Viene de Tude, el nombre latino de la ciudad. Los de Tudela son tudelanos.",
+    "curiosidad": "Un puente internacional sobre el Miño la une con Valença, en Portugal.",
+    "otras_formas": []
+  },
+  {
+    "id": "zacatecano",
+    "gentilicio": "zacatecano",
+    "lugar": "Zacatecas",
+    "pais": "México",
+    "region": "Zacatecas",
+    "coordenadas": [
+      22.77,
+      -102.583
+    ],
+    "nivel": 1,
+    "formato": "normal",
+    "falsas": [
+      "Zacapa",
+      "Zaragoza"
+    ],
+    "explicacion": "Viene de los zacatecos, pueblo que vivía en la zona; su nombre es náhuatl y alude al zacate, la hierba.",
+    "curiosidad": "Sus minas de plata hicieron de ella una de las ciudades más ricas de la Nueva España.",
+    "otras_formas": []
+  },
+  {
+    "id": "payanés",
+    "gentilicio": "payanés",
+    "lugar": "Popayán",
+    "pais": "Colombia",
+    "region": "Cauca",
+    "coordenadas": [
+      2.444,
+      -76.614
+    ],
+    "nivel": 2,
+    "formato": "normal",
+    "falsas": [
+      "Paysandú",
+      "Panamá"
+    ],
+    "explicacion": "Se forma sobre Popayán, abreviando el nombre.",
+    "curiosidad": "Llamada la Ciudad Blanca, sus procesiones de Semana Santa son patrimonio inmaterial de la humanidad.",
+    "otras_formas": []
+  },
+  {
+    "id": "abderitano",
+    "gentilicio": "abderitano",
+    "lugar": "Adra",
+    "pais": "España",
+    "region": "Andalucía",
+    "coordenadas": [
+      36.748,
+      -3.02
+    ],
+    "nivel": 3,
+    "formato": "normal",
+    "falsas": [
+      "Andújar",
+      "Adeje"
+    ],
+    "explicacion": "Viene de Abdera, la colonia fenicia que hubo en el lugar.",
+    "curiosidad": "Comparte gentilicio con los de la Abdera griega, la patria de Demócrito.",
+    "otras_formas": [
+      "abderense"
+    ],
+    "revisar": true
+  },
+  {
+    "id": "chihuahuense",
+    "gentilicio": "chihuahuense",
+    "lugar": "Chihuahua",
+    "pais": "México",
+    "region": "Chihuahua",
+    "coordenadas": [
+      28.632,
+      -106.069
+    ],
+    "nivel": 1,
+    "formato": "normal",
+    "falsas": [
+      "Chiapas",
+      "Chiclayo"
+    ],
+    "explicacion": "Se forma sobre el nombre de la ciudad, de origen indígena discutido.",
+    "curiosidad": "El perro más pequeño del mundo lleva el nombre de este estado.",
+    "otras_formas": []
+  },
+  {
+    "id": "huancaíno",
+    "gentilicio": "huancaíno",
+    "lugar": "Huancayo",
+    "pais": "Perú",
+    "region": "Junín",
+    "coordenadas": [
+      -12.065,
+      -75.204
+    ],
+    "nivel": 2,
+    "formato": "normal",
+    "falsas": [
+      "Huánuco",
+      "Huancavelica"
+    ],
+    "explicacion": "Se forma sobre Huancayo, nombre quechua.",
+    "curiosidad": "De aquí toma su nombre la papa a la huancaína, con salsa de queso y ají amarillo.",
+    "otras_formas": []
+  },
+  {
+    "id": "ilipense",
+    "gentilicio": "ilipense",
+    "lugar": "Alcalá del Río",
+    "pais": "España",
+    "region": "Andalucía",
+    "coordenadas": [
+      37.519,
+      -5.982
+    ],
+    "nivel": 3,
+    "formato": "normal",
+    "falsas": [
+      "Alcalá de Guadaíra",
+      "Elche"
+    ],
+    "explicacion": "Viene de Ilipa, la ciudad romana que estaba en el lugar.",
+    "curiosidad": "Junto a Ilipa se libró en el 206 a. C. una batalla decisiva entre romanos y cartagineses.",
+    "otras_formas": [],
+    "revisar": true
+  },
+  {
+    "id": "vitoriano",
+    "gentilicio": "vitoriano",
+    "lugar": "Vitoria",
+    "pais": "España",
+    "region": "País Vasco",
+    "coordenadas": [
+      42.846,
+      -2.672
+    ],
+    "nivel": 1,
+    "formato": "normal",
+    "falsas": [
+      "Viveiro",
+      "Villena"
+    ],
+    "explicacion": "Se forma sobre Vitoria. En euskera la ciudad es Gasteiz, y sus vecinos, gasteiztarras.",
+    "curiosidad": "Es la capital del País Vasco; en 2012 fue Capital Verde Europea.",
+    "otras_formas": [
+      "gasteiztarra"
+    ]
+  },
+  {
+    "id": "bumangués",
+    "gentilicio": "bumangués",
+    "lugar": "Bucaramanga",
+    "pais": "Colombia",
+    "region": "Santander",
+    "coordenadas": [
+      7.119,
+      -73.122
+    ],
+    "nivel": 2,
+    "formato": "normal",
+    "falsas": [
+      "Barquisimeto",
+      "Buenaventura"
+    ],
+    "explicacion": "Se forma con un trozo del nombre de la ciudad, como payanés con Popayán.",
+    "curiosidad": "La llaman la Ciudad de los Parques.",
+    "otras_formas": []
+  },
+  {
+    "id": "dianense",
+    "gentilicio": "dianense",
+    "lugar": "Dénia",
+    "pais": "España",
+    "region": "Comunidad Valenciana",
+    "coordenadas": [
+      38.84,
+      0.106
+    ],
+    "nivel": 3,
+    "formato": "normal",
+    "falsas": [
+      "Daimiel",
+      "Dalías"
+    ],
+    "explicacion": "Viene de Dianium, por un templo dedicado a la diosa Diana.",
+    "curiosidad": "Es famosa por su gamba roja.",
+    "otras_formas": []
+  },
+  {
+    "id": "bilbaíno",
+    "gentilicio": "bilbaíno",
+    "lugar": "Bilbao",
+    "pais": "España",
+    "region": "País Vasco",
+    "coordenadas": [
+      43.263,
+      -2.935
+    ],
+    "nivel": 1,
+    "formato": "normal",
+    "falsas": [
+      "Vilalba",
+      "Bailén"
+    ],
+    "explicacion": "Se forma sobre el nombre de la villa, fundada en 1300.",
+    "curiosidad": "El museo Guggenheim, de 1997, cambió la imagen de la ciudad.",
+    "otras_formas": []
+  },
+  {
+    "id": "santaneco",
+    "gentilicio": "santaneco",
+    "lugar": "Santa Ana",
+    "etiqueta": "Santa Ana (El Salvador)",
+    "pais": "El Salvador",
+    "region": "Santa Ana",
+    "coordenadas": [
+      13.994,
+      -89.556
+    ],
+    "nivel": 2,
+    "formato": "normal",
+    "falsas": [
+      "Santander",
+      "Santa Marta"
+    ],
+    "explicacion": "Se forma sobre Santa Ana con el sufijo -eco, muy de Centroamérica, como en guatemalteco.",
+    "curiosidad": "Es la segunda ciudad de El Salvador, con una catedral neogótica muy llamativa.",
+    "otras_formas": []
+  },
+  {
+    "id": "valentino",
+    "gentilicio": "valentino",
+    "lugar": "Valencia",
+    "etiqueta": "Valencia (España)",
+    "pais": "España",
+    "region": "Comunidad Valenciana",
+    "coordenadas": [
+      39.47,
+      -0.376
+    ],
+    "nivel": 3,
+    "formato": "normal",
+    "falsas": [
+      "Valdepeñas",
+      "Valladolid"
+    ],
+    "explicacion": "Viene de Valentia, el nombre que le dieron los romanos al fundarla en el 138 a. C. Lo corriente es valenciano.",
+    "curiosidad": "La Lonja de la Seda es patrimonio de la humanidad.",
+    "otras_formas": [
+      "valenciano"
+    ]
+  },
+  {
+    "id": "toledano",
+    "gentilicio": "toledano",
+    "lugar": "Toledo",
+    "pais": "España",
+    "region": "Castilla-La Mancha",
+    "coordenadas": [
+      39.863,
+      -4.027
+    ],
+    "nivel": 1,
+    "formato": "normal",
+    "falsas": [
+      "Tudela",
+      "Toro"
+    ],
+    "explicacion": "Viene de Toletum, su nombre en época romana.",
+    "curiosidad": "La llaman la ciudad de las tres culturas por la convivencia medieval de cristianos, judíos y musulmanes.",
+    "otras_formas": []
+  },
+  {
+    "id": "sampedrano",
+    "gentilicio": "sampedrano",
+    "lugar": "San Pedro Sula",
+    "pais": "Honduras",
+    "region": "Cortés",
+    "coordenadas": [
+      15.505,
+      -88.025
+    ],
+    "nivel": 2,
+    "formato": "normal",
+    "falsas": [
+      "San Pedro de Macorís",
+      "San Pedro (Paraguay)"
+    ],
+    "explicacion": "Se forma sobre la primera parte del nombre.",
+    "curiosidad": "Es la capital industrial de Honduras.",
+    "otras_formas": []
+  },
+  {
+    "id": "flaviobrigense",
+    "gentilicio": "flaviobrigense",
+    "lugar": "Castro Urdiales",
+    "pais": "España",
+    "region": "Cantabria",
+    "coordenadas": [
+      43.385,
+      -3.215
+    ],
+    "nivel": 3,
+    "formato": "normal",
+    "falsas": [
+      "Flix",
+      "Briviesca"
+    ],
+    "explicacion": "Viene de Flaviobriga, la colonia romana fundada por el emperador Vespasiano, de la familia Flavia.",
+    "curiosidad": "Su iglesia gótica de Santa María se asoma al mar junto al castillo-faro.",
+    "otras_formas": [
+      "castreño"
+    ]
+  },
+  {
+    "id": "piurano",
+    "gentilicio": "piurano",
+    "lugar": "Piura",
+    "pais": "Perú",
+    "region": "Piura",
+    "coordenadas": [
+      -5.194,
+      -80.632
+    ],
+    "nivel": 1,
+    "formato": "normal",
+    "falsas": [
+      "Puno",
+      "Pereira"
+    ],
+    "explicacion": "Se forma sobre el nombre de la ciudad, la primera que fundaron los españoles en Perú, en 1532.",
+    "curiosidad": "Su desierto de Sechura es de los más extensos de Sudamérica.",
+    "otras_formas": []
+  },
+  {
+    "id": "antigüeño",
+    "gentilicio": "antigüeño",
+    "lugar": "Antigua Guatemala",
+    "pais": "Guatemala",
+    "region": "Sacatepéquez",
+    "coordenadas": [
+      14.557,
+      -90.733
+    ],
+    "nivel": 2,
+    "formato": "normal",
+    "falsas": [
+      "Antigua y Barbuda",
+      "Antioquia"
+    ],
+    "explicacion": "Se forma sobre Antigua, como se la llama para abreviar.",
+    "curiosidad": "Fue la capital del reino de Guatemala hasta que los terremotos de 1773 obligaron a trasladarla.",
+    "otras_formas": []
+  },
+  {
+    "id": "turgalense",
+    "gentilicio": "turgalense",
+    "lugar": "Trujillo",
+    "etiqueta": "Trujillo (España)",
+    "pais": "España",
+    "region": "Extremadura",
+    "coordenadas": [
+      39.458,
+      -5.882
+    ],
+    "nivel": 3,
+    "formato": "normal",
+    "falsas": [
+      "Trujillo (Perú)",
+      "Turégano"
+    ],
+    "explicacion": "Viene de Turgalium, el nombre romano de la ciudad. Lo más corriente es trujillano.",
+    "curiosidad": "Es la patria de Francisco Pizarro, cuya estatua ecuestre preside la plaza Mayor.",
+    "otras_formas": [
+      "trujillano"
+    ]
+  },
+  {
+    "id": "ceutí",
+    "gentilicio": "ceutí",
+    "lugar": "Ceuta",
+    "pais": "España",
+    "region": "Ceuta",
+    "coordenadas": [
+      35.889,
+      -5.321
+    ],
+    "nivel": 1,
+    "formato": "normal",
+    "falsas": [
+      "Cieza",
+      "Cuenca (España)"
+    ],
+    "explicacion": "Ceuta viene del latín Septem, por los siete montes de la zona; en árabe se dijo Sabta.",
+    "curiosidad": "Junto con Melilla, es una de las dos ciudades españolas en el norte de África.",
+    "otras_formas": []
+  },
+  {
+    "id": "misionero",
+    "gentilicio": "misionero",
+    "lugar": "Misiones",
+    "pais": "Argentina",
+    "region": "Misiones",
+    "coordenadas": [
+      -27.367,
+      -55.896
+    ],
+    "nivel": 2,
+    "formato": "normal",
+    "falsas": [
+      "Corrientes",
+      "Montevideo"
+    ],
+    "explicacion": "Viene de las misiones jesuíticas que se fundaron en la región en los siglos XVII y XVIII.",
+    "curiosidad": "Allí están las cataratas del Iguazú.",
+    "otras_formas": []
+  },
+  {
+    "id": "oxomense",
+    "gentilicio": "oxomense",
+    "lugar": "El Burgo de Osma",
+    "pais": "España",
+    "region": "Castilla y León",
+    "coordenadas": [
+      41.586,
+      -3.068
+    ],
+    "nivel": 3,
+    "formato": "normal",
+    "falsas": [
+      "Osuna",
+      "Oñati"
+    ],
+    "explicacion": "Viene de Uxama, la ciudad celtíbera y romana que estaba cerca.",
+    "curiosidad": "Su catedral guarda un famoso códice del Beato de Liébana.",
+    "otras_formas": []
+  },
+  {
+    "id": "riobambeño",
+    "gentilicio": "riobambeño",
+    "lugar": "Riobamba",
+    "pais": "Ecuador",
+    "region": "Chimborazo",
+    "coordenadas": [
+      -1.664,
+      -78.654
+    ],
+    "nivel": 1,
+    "formato": "normal",
+    "falsas": [
+      "Riohacha",
+      "Rionegro"
+    ],
+    "explicacion": "Se forma sobre el nombre de la ciudad, al pie del Chimborazo.",
+    "curiosidad": "En 1830 se reunió aquí la asamblea que fundó la República del Ecuador.",
+    "otras_formas": []
+  },
+  {
+    "id": "entrerriano",
+    "gentilicio": "entrerriano",
+    "lugar": "Entre Ríos",
+    "pais": "Argentina",
+    "region": "Entre Ríos",
+    "coordenadas": [
+      -31.732,
+      -60.529
+    ],
+    "nivel": 2,
+    "formato": "normal",
+    "falsas": [
+      "Río Negro (Argentina)",
+      "Riohacha"
+    ],
+    "explicacion": "Se forma sobre Entre Ríos: la provincia queda entre el Paraná y el Uruguay.",
+    "curiosidad": "Es casi una isla de ríos, arroyos y esteros.",
+    "otras_formas": []
+  },
+  {
+    "id": "asidonense",
+    "gentilicio": "asidonense",
+    "lugar": "Medina-Sidonia",
+    "pais": "España",
+    "region": "Andalucía",
+    "coordenadas": [
+      36.457,
+      -5.927
+    ],
+    "nivel": 3,
+    "formato": "normal",
+    "falsas": [
+      "Medina del Campo",
+      "Sigüenza"
+    ],
+    "explicacion": "Viene de Asido, el nombre de la ciudad en época romana.",
+    "curiosidad": "Su ducado, uno de los más antiguos de España, dio al jefe de la Armada Invencible.",
+    "otras_formas": []
+  },
+  {
+    "id": "caleño",
+    "gentilicio": "caleño",
+    "lugar": "Cali",
+    "pais": "Colombia",
+    "region": "Valle del Cauca",
+    "coordenadas": [
+      3.451,
+      -76.532
+    ],
+    "nivel": 1,
+    "formato": "normal",
+    "falsas": [
+      "Calama",
+      "Callao"
+    ],
+    "explicacion": "Se forma sobre Cali, ciudad fundada en 1536.",
+    "curiosidad": "Presume de ser la capital mundial de la salsa.",
+    "otras_formas": []
+  },
+  {
+    "id": "fueguino",
+    "gentilicio": "fueguino",
+    "lugar": "Tierra del Fuego",
+    "pais": "Argentina",
+    "region": "Tierra del Fuego",
+    "coordenadas": [
+      -54.8,
+      -68.3
+    ],
+    "nivel": 2,
+    "formato": "normal",
+    "falsas": [
+      "Fuengirola",
+      "Fuenterrabía"
+    ],
+    "explicacion": "Se forma sobre Fuego. Magallanes llamó así a la isla por las hogueras de los indígenas que vio desde el barco.",
+    "curiosidad": "Ushuaia presume de ser la ciudad más austral del mundo.",
+    "otras_formas": []
+  },
+  {
+    "id": "sanducero",
+    "gentilicio": "sanducero",
+    "lugar": "Paysandú",
+    "pais": "Uruguay",
+    "region": "Paysandú",
+    "coordenadas": [
+      -32.321,
+      -58.075
+    ],
+    "nivel": 3,
+    "formato": "normal",
+    "falsas": [
+      "San Pedro Sula",
+      "Sancti Spíritus"
+    ],
+    "explicacion": "Se forma sobre la segunda parte del nombre. Según la explicación tradicional, Paysandú es 'pay Sandú', el padre Sandú.",
+    "curiosidad": "Es la tercera ciudad de Uruguay, a orillas del río Uruguay.",
+    "otras_formas": [],
+    "revisar": true
+  },
+  {
+    "id": "mendocino",
+    "gentilicio": "mendocino",
+    "lugar": "Mendoza",
+    "pais": "Argentina",
+    "region": "Mendoza",
+    "coordenadas": [
+      -32.889,
+      -68.845
+    ],
+    "nivel": 1,
+    "formato": "normal",
+    "falsas": [
+      "Medina del Campo",
+      "Misiones"
+    ],
+    "explicacion": "Mendoza debe su nombre a García Hurtado de Mendoza, gobernador de Chile cuando se fundó, en 1561.",
+    "curiosidad": "Es la gran tierra del vino argentino, al pie del Aconcagua.",
+    "otras_formas": []
+  },
+  {
+    "id": "portugalujo",
+    "gentilicio": "portugalujo",
+    "lugar": "Portugalete",
+    "pais": "España",
+    "region": "País Vasco",
+    "coordenadas": [
+      43.32,
+      -3.02
+    ],
+    "nivel": 2,
+    "formato": "normal",
+    "falsas": [
+      "Puerto Real",
+      "Portonovo"
+    ],
+    "explicacion": "Se forma sobre Portugalete con un sufijo poco frecuente.",
+    "curiosidad": "El Puente de Vizcaya, que lo une con Getxo, es patrimonio de la humanidad.",
+    "otras_formas": []
+  },
+  {
+    "id": "canario",
+    "gentilicio": "canario",
+    "lugar": "Canelones",
+    "pais": "Uruguay",
+    "region": "Canelones",
+    "coordenadas": [
+      -34.523,
+      -56.278
+    ],
+    "nivel": 3,
+    "formato": "reves",
+    "falsas": [
+      "maragato",
+      "sanducero"
+    ],
+    "explicacion": "Los de Canelones se llaman canarios por los muchos inmigrantes de las islas Canarias que poblaron la zona.",
+    "curiosidad": "Los maragatos son los de San José, y los sanduceros, los de Paysandú.",
+    "otras_formas": []
+  },
+  {
+    "id": "arequipeño",
+    "gentilicio": "arequipeño",
+    "lugar": "Arequipa",
+    "pais": "Perú",
+    "region": "Arequipa",
+    "coordenadas": [
+      -16.409,
+      -71.537
+    ],
+    "nivel": 1,
+    "formato": "normal",
+    "falsas": [
+      "Arica",
+      "Ayacucho"
+    ],
+    "explicacion": "Se forma sobre el nombre de la ciudad, de origen quechua o aimara discutido.",
+    "curiosidad": "La llaman la Ciudad Blanca por el sillar, la piedra volcánica de sus edificios.",
+    "otras_formas": []
+  },
+  {
+    "id": "oriolano",
+    "gentilicio": "oriolano",
+    "lugar": "Orihuela",
+    "pais": "España",
+    "region": "Comunidad Valenciana",
+    "coordenadas": [
+      38.085,
+      -0.944
+    ],
+    "nivel": 2,
+    "formato": "normal",
+    "falsas": [
+      "Oria",
+      "Oliva"
+    ],
+    "explicacion": "Viene de Oriola, el nombre de la ciudad en valenciano.",
+    "curiosidad": "Es la ciudad natal del poeta Miguel Hernández.",
+    "otras_formas": []
+  },
+  {
+    "id": "puntano",
+    "gentilicio": "puntano",
+    "lugar": "San Luis",
+    "etiqueta": "San Luis (Argentina)",
+    "pais": "Argentina",
+    "region": "San Luis",
+    "coordenadas": [
+      -33.301,
+      -66.338
+    ],
+    "nivel": 3,
+    "formato": "normal",
+    "falsas": [
+      "San Luis Potosí",
+      "Punta del Este"
+    ],
+    "explicacion": "La ciudad se fundó como San Luis de la Punta de los Venados: de la punta sale puntano.",
+    "curiosidad": "Los potosinos son los de San Luis Potosí.",
+    "otras_formas": []
+  },
+  {
+    "id": "camagüeyano",
+    "gentilicio": "camagüeyano",
+    "lugar": "Camagüey",
+    "pais": "Cuba",
+    "region": "Camagüey",
+    "coordenadas": [
+      21.38,
+      -77.917
+    ],
+    "nivel": 1,
+    "formato": "normal",
+    "falsas": [
+      "Cayey",
+      "Caimito"
+    ],
+    "explicacion": "Se forma sobre Camagüey, nombre indígena de la región.",
+    "curiosidad": "La llaman la ciudad de los tinajones, por las grandes vasijas de barro para recoger el agua de lluvia.",
+    "otras_formas": []
+  },
+  {
+    "id": "toresano",
+    "gentilicio": "toresano",
+    "lugar": "Toro",
+    "pais": "España",
+    "region": "Castilla y León",
+    "coordenadas": [
+      41.522,
+      -5.392
+    ],
+    "nivel": 2,
+    "formato": "normal",
+    "falsas": [
+      "Torrelavega",
+      "Tordesillas"
+    ],
+    "explicacion": "Se forma sobre Toro con el sufijo -esano.",
+    "curiosidad": "Su vino tinto tiene denominación de origen propia.",
+    "otras_formas": []
+  },
+  {
+    "id": "momposino",
+    "gentilicio": "momposino",
+    "lugar": "Santa Cruz de Mompox",
+    "pais": "Colombia",
+    "region": "Bolívar",
+    "coordenadas": [
+      9.238,
+      -74.427
+    ],
+    "nivel": 3,
+    "formato": "normal",
+    "falsas": [
+      "Montería",
+      "Morón"
+    ],
+    "explicacion": "Se forma sobre Mompox, también escrito Mompós.",
+    "curiosidad": "Su centro colonial a orillas del Magdalena es patrimonio de la humanidad; García Márquez la retrató en «El general en su laberinto».",
+    "otras_formas": []
+  },
+  {
+    "id": "queretano",
+    "gentilicio": "queretano",
+    "lugar": "Querétaro",
+    "pais": "México",
+    "region": "Querétaro",
+    "coordenadas": [
+      20.588,
+      -100.389
+    ],
+    "nivel": 1,
+    "formato": "normal",
+    "falsas": [
+      "Quetzaltenango",
+      "Quillota"
+    ],
+    "explicacion": "Se forma sobre el nombre de la ciudad, de origen purépecha.",
+    "curiosidad": "Aquí se promulgó en 1917 la Constitución mexicana.",
+    "otras_formas": []
+  },
+  {
+    "id": "sanluqueño",
+    "gentilicio": "sanluqueño",
+    "lugar": "Sanlúcar de Barrameda",
+    "pais": "España",
+    "region": "Andalucía",
+    "coordenadas": [
+      36.778,
+      -6.352
+    ],
+    "nivel": 2,
+    "formato": "normal",
+    "falsas": [
+      "San Roque",
+      "Salobreña"
+    ],
+    "explicacion": "Se forma sobre Sanlúcar.",
+    "curiosidad": "De aquí partió en 1519 la expedición de Magallanes y Elcano. Su vino es la manzanilla.",
+    "otras_formas": []
+  },
+  {
+    "id": "pandino",
+    "gentilicio": "pandino",
+    "lugar": "Pando",
+    "etiqueta": "Pando (Bolivia)",
+    "pais": "Bolivia",
+    "region": "Pando",
+    "coordenadas": [
+      -11.03,
+      -68.77
+    ],
+    "nivel": 3,
+    "formato": "normal",
+    "falsas": [
+      "Pando (Uruguay)",
+      "Pamplona (Colombia)"
+    ],
+    "explicacion": "Se forma sobre Pando, el departamento que lleva el nombre del presidente José Manuel Pando.",
+    "curiosidad": "Es el departamento menos poblado de Bolivia, en plena Amazonía.",
+    "otras_formas": []
+  },
+  {
+    "id": "jujeño",
+    "gentilicio": "jujeño",
+    "lugar": "Jujuy",
+    "pais": "Argentina",
+    "region": "Jujuy",
+    "coordenadas": [
+      -24.185,
+      -65.299
+    ],
+    "nivel": 1,
+    "formato": "normal",
+    "falsas": [
+      "Jaén",
+      "Juliaca"
+    ],
+    "explicacion": "Se forma sobre Jujuy, nombre de origen indígena.",
+    "curiosidad": "La quebrada de Humahuaca, con sus cerros de colores, es patrimonio de la humanidad.",
+    "otras_formas": []
+  },
+  {
+    "id": "medinense",
+    "gentilicio": "medinense",
+    "lugar": "Medina del Campo",
+    "pais": "España",
+    "region": "Castilla y León",
+    "coordenadas": [
+      41.312,
+      -4.914
+    ],
+    "nivel": 2,
+    "formato": "normal",
+    "falsas": [
+      "Medina-Sidonia",
+      "Mérida"
+    ],
+    "explicacion": "Se forma sobre Medina, del árabe madina, 'ciudad'. Los de Medina-Sidonia son asidonenses.",
+    "curiosidad": "Aquí murió Isabel la Católica, en 1504, y sus ferias fueron de las más importantes de Europa.",
+    "otras_formas": []
+  },
+  {
+    "id": "beniano",
+    "gentilicio": "beniano",
+    "lugar": "Beni",
+    "pais": "Bolivia",
+    "region": "Beni",
+    "coordenadas": [
+      -14.833,
+      -64.904
+    ],
+    "nivel": 3,
+    "formato": "normal",
+    "falsas": [
+      "Benidorm",
+      "Benavente"
+    ],
+    "explicacion": "Se forma sobre Beni, el río que da nombre al departamento.",
+    "curiosidad": "Sus llanos se inundan cada año en la temporada de lluvias.",
+    "otras_formas": [],
+    "revisar": true
+  },
+  {
+    "id": "tunjano",
+    "gentilicio": "tunjano",
+    "lugar": "Tunja",
+    "pais": "Colombia",
+    "region": "Boyacá",
+    "coordenadas": [
+      5.535,
+      -73.367
+    ],
+    "nivel": 1,
+    "formato": "normal",
+    "falsas": [
+      "Tumaco",
+      "Tuluá"
+    ],
+    "explicacion": "Se forma sobre Tunja, del nombre muisca del lugar, Hunza.",
+    "curiosidad": "Es la capital de Boyacá, donde se libró la batalla de 1819 que selló la independencia de Colombia.",
+    "otras_formas": []
+  },
+  {
+    "id": "llanisco",
+    "gentilicio": "llanisco",
+    "lugar": "Llanes",
+    "pais": "España",
+    "region": "Asturias",
+    "coordenadas": [
+      43.42,
+      -4.755
+    ],
+    "nivel": 2,
+    "formato": "normal",
+    "falsas": [
+      "Llanera",
+      "Lanjarón"
+    ],
+    "explicacion": "Se forma sobre Llanes con el sufijo -isco, raro en los gentilicios.",
+    "curiosidad": "Sus Cubos de la Memoria pintaron de colores los bloques del espigón del puerto.",
+    "otras_formas": []
+  },
+  {
+    "id": "chillanejo",
+    "gentilicio": "chillanejo",
+    "lugar": "Chillán",
+    "pais": "Chile",
+    "region": "Ñuble",
+    "coordenadas": [
+      -36.607,
+      -72.103
+    ],
+    "nivel": 3,
+    "formato": "normal",
+    "falsas": [
+      "Chiclana de la Frontera",
+      "Chilpancingo"
+    ],
+    "explicacion": "Se forma sobre Chillán con el sufijo -ejo, poco frecuente.",
+    "curiosidad": "Es la ciudad natal de Bernardo O'Higgins, padre de la patria chilena.",
+    "otras_formas": []
+  },
+  {
+    "id": "alcoyano",
+    "gentilicio": "alcoyano",
+    "lugar": "Alcoy",
+    "pais": "España",
+    "region": "Comunidad Valenciana",
+    "coordenadas": [
+      38.698,
+      -0.474
+    ],
+    "nivel": 1,
+    "formato": "normal",
+    "falsas": [
+      "Alcañiz",
+      "Alcorcón"
+    ],
+    "explicacion": "Se forma sobre Alcoy, en valenciano Alcoi.",
+    "curiosidad": "«Tener más moral que el Alcoyano» viene de su equipo de fútbol, famoso por no rendirse nunca.",
+    "otras_formas": []
+  },
+  {
+    "id": "berciano",
+    "gentilicio": "berciano",
+    "lugar": "El Bierzo",
+    "pais": "España",
+    "region": "Castilla y León",
+    "coordenadas": [
+      42.6,
+      -6.6
+    ],
+    "nivel": 2,
+    "formato": "normal",
+    "falsas": [
+      "Berja",
+      "Bermeo"
+    ],
+    "explicacion": "Se forma sobre Bierzo, que viene de Bergidum, una ciudad romana de la zona.",
+    "curiosidad": "Las Médulas, antiguas minas de oro romanas, son patrimonio de la humanidad.",
+    "otras_formas": []
+  },
+  {
+    "id": "brigantino",
+    "gentilicio": "brigantino",
+    "lugar": "Betanzos",
+    "pais": "España",
+    "region": "Galicia",
+    "coordenadas": [
+      43.28,
+      -8.211
+    ],
+    "nivel": 3,
+    "formato": "normal",
+    "falsas": [
+      "Braga",
+      "Briviesca"
+    ],
+    "explicacion": "Viene de Brigantium, nombre romano que se ha atribuido tanto a Betanzos como a A Coruña.",
+    "curiosidad": "Su tortilla de patatas, poco cuajada, es famosa en toda España.",
+    "otras_formas": [
+      "betanceiro"
+    ],
+    "revisar": true
+  },
+  {
+    "id": "segoviano",
+    "gentilicio": "segoviano",
+    "lugar": "Segovia",
+    "pais": "España",
+    "region": "Castilla y León",
+    "coordenadas": [
+      40.948,
+      -4.118
+    ],
+    "nivel": 1,
+    "formato": "reves",
+    "falsas": [
+      "seguntino",
+      "segobricense"
+    ],
+    "explicacion": "Se forma sobre Segovia. Ojo: seguntino es de Sigüenza y segobricense, de Segorbe.",
+    "curiosidad": "Su acueducto romano sigue en pie sin argamasa: las piedras se sostienen por su propio peso.",
+    "otras_formas": []
+  },
+  {
+    "id": "alcarreño",
+    "gentilicio": "alcarreño",
+    "lugar": "La Alcarria",
+    "pais": "España",
+    "region": "Castilla-La Mancha",
+    "coordenadas": [
+      40.6,
+      -2.7
+    ],
+    "nivel": 2,
+    "formato": "normal",
+    "falsas": [
+      "Alcañiz",
+      "Alcaraz"
+    ],
+    "explicacion": "Se forma sobre Alcarria, del árabe, 'tierra de alquerías' o de cerros.",
+    "curiosidad": "Camilo José Cela la recorrió a pie y la retrató en «Viaje a la Alcarria».",
+    "otras_formas": []
+  },
+  {
+    "id": "olitense",
+    "gentilicio": "olitense",
+    "lugar": "Olite",
+    "pais": "España",
+    "region": "Navarra",
+    "coordenadas": [
+      42.482,
+      -1.651
+    ],
+    "nivel": 3,
+    "formato": "normal",
+    "falsas": [
+      "Olot",
+      "Oliva"
+    ],
+    "explicacion": "Se forma sobre Olite con el sufijo culto -ense.",
+    "curiosidad": "Su palacio real, de cuento de hadas, fue residencia de los reyes de Navarra.",
+    "otras_formas": []
+  },
+  {
+    "id": "menorquín",
+    "gentilicio": "menorquín",
+    "lugar": "Menorca",
+    "pais": "España",
+    "region": "Islas Baleares",
+    "coordenadas": [
+      39.95,
+      4.11
+    ],
+    "nivel": 1,
+    "formato": "reves",
+    "falsas": [
+      "mallorquín",
+      "ibicenco"
+    ],
+    "explicacion": "Se forma sobre Menorca, la isla 'menor' frente a Mallorca, la 'mayor'.",
+    "curiosidad": "La salsa mahonesa toma el nombre de Mahón, su capital.",
+    "otras_formas": []
+  },
+  {
+    "id": "moreliano",
+    "gentilicio": "moreliano",
+    "lugar": "Morelia",
+    "pais": "México",
+    "region": "Michoacán",
+    "coordenadas": [
+      19.706,
+      -101.195
+    ],
+    "nivel": 2,
+    "formato": "reves",
+    "falsas": [
+      "morelense",
+      "moronense"
+    ],
+    "explicacion": "Se forma sobre Morelia, que se llama así por José María Morelos. Ojo: los del estado de Morelos son morelenses.",
+    "curiosidad": "Su centro, de cantera rosa, es patrimonio de la humanidad.",
+    "otras_formas": []
+  },
+  {
+    "id": "lebaniego",
+    "gentilicio": "lebaniego",
+    "lugar": "Liébana",
+    "pais": "España",
+    "region": "Cantabria",
+    "coordenadas": [
+      43.15,
+      -4.65
+    ],
+    "nivel": 3,
+    "formato": "normal",
+    "falsas": [
+      "Lebrija",
+      "Leganés"
+    ],
+    "explicacion": "Se forma sobre Liébana, la comarca de los Picos de Europa.",
+    "curiosidad": "En el monasterio de Santo Toribio escribió el Beato de Liébana sus comentarios al Apocalipsis.",
+    "otras_formas": []
+  },
+  {
+    "id": "antequerano",
+    "gentilicio": "antequerano",
+    "lugar": "Antequera",
+    "pais": "España",
+    "region": "Andalucía",
+    "coordenadas": [
+      37.019,
+      -4.56
+    ],
+    "nivel": 1,
+    "formato": "normal",
+    "falsas": [
+      "Andújar",
+      "Arcos de la Frontera"
+    ],
+    "explicacion": "Viene de Antikaria, su nombre en época romana.",
+    "curiosidad": "Sus dólmenes de Menga y Viera son patrimonio de la humanidad desde 2016.",
+    "otras_formas": []
+  },
+  {
+    "id": "quetzalteco",
+    "gentilicio": "quetzalteco",
+    "lugar": "Quetzaltenango",
+    "pais": "Guatemala",
+    "region": "Quetzaltenango",
+    "coordenadas": [
+      14.834,
+      -91.518
+    ],
+    "nivel": 2,
+    "formato": "reves",
+    "falsas": [
+      "quiteño",
+      "queretano"
+    ],
+    "explicacion": "Se forma sobre Quetzaltenango, en náhuatl 'lugar del quetzal'. Allí se la llama Xela.",
+    "curiosidad": "Es la segunda ciudad de Guatemala.",
+    "otras_formas": []
+  },
+  {
+    "id": "paisa",
+    "gentilicio": "paisa",
+    "lugar": "Antioquia",
+    "pais": "Colombia",
+    "region": "Antioquia",
+    "coordenadas": [
+      6.244,
+      -75.581
+    ],
+    "nivel": 3,
+    "formato": "normal",
+    "falsas": [
+      "Boyacá",
+      "Santander (Colombia)"
+    ],
+    "explicacion": "Viene de paisano. Se aplica a los antioqueños y, por extensión, a los del Eje Cafetero.",
+    "curiosidad": "Medellín es la gran ciudad paisa.",
+    "otras_formas": [
+      "antioqueño"
+    ]
+  },
+  {
+    "id": "ponferradino",
+    "gentilicio": "ponferradino",
+    "lugar": "Ponferrada",
+    "pais": "España",
+    "region": "Castilla y León",
+    "coordenadas": [
+      42.546,
+      -6.598
+    ],
+    "nivel": 1,
+    "formato": "normal",
+    "falsas": [
+      "Pontevedra",
+      "Puertollano"
+    ],
+    "explicacion": "Ponferrada viene de pons ferrata, el puente reforzado con hierro que se construyó sobre el Sil.",
+    "curiosidad": "Su castillo templario es el monumento más visitado de El Bierzo.",
+    "otras_formas": []
+  },
+  {
+    "id": "tlaxcalteca",
+    "gentilicio": "tlaxcalteca",
+    "lugar": "Tlaxcala",
+    "pais": "México",
+    "region": "Tlaxcala",
+    "coordenadas": [
+      19.318,
+      -98.238
+    ],
+    "nivel": 2,
+    "formato": "reves",
+    "falsas": [
+      "toluqueño",
+      "taxqueño"
+    ],
+    "explicacion": "Se forma sobre Tlaxcala, en náhuatl 'lugar de tortillas'.",
+    "curiosidad": "Los tlaxcaltecas se aliaron con Cortés contra los mexicas.",
+    "otras_formas": []
+  },
+  {
+    "id": "camba",
+    "gentilicio": "camba",
+    "lugar": "Santa Cruz",
+    "etiqueta": "Santa Cruz (Bolivia)",
+    "pais": "Bolivia",
+    "region": "Santa Cruz",
+    "coordenadas": [
+      -17.784,
+      -63.182
+    ],
+    "nivel": 3,
+    "formato": "normal",
+    "falsas": [
+      "La Paz (Bolivia)",
+      "Oruro"
+    ],
+    "explicacion": "Es el nombre popular de los del oriente boliviano, sobre todo de Santa Cruz; a los del altiplano se les llama collas.",
+    "curiosidad": "Lo corriente es cruceño.",
+    "otras_formas": [
+      "cruceño"
+    ]
+  },
+  {
+    "id": "yucateco",
+    "gentilicio": "yucateco",
+    "lugar": "Yucatán",
+    "pais": "México",
+    "region": "Yucatán",
+    "coordenadas": [
+      20.967,
+      -89.623
+    ],
+    "nivel": 1,
+    "formato": "normal",
+    "falsas": [
+      "Yecla",
+      "Yautepec"
+    ],
+    "explicacion": "Se forma sobre Yucatán. Según una leyenda, el nombre nació de un malentendido entre españoles y mayas.",
+    "curiosidad": "Es tierra maya: allí están Chichén Itzá y Uxmal.",
+    "otras_formas": []
+  },
+  {
+    "id": "santiagueño",
+    "gentilicio": "santiagueño",
+    "lugar": "Santiago del Estero",
+    "pais": "Argentina",
+    "region": "Santiago del Estero",
+    "coordenadas": [
+      -27.795,
+      -64.262
+    ],
+    "nivel": 2,
+    "formato": "normal",
+    "falsas": [
+      "Santiago de Chile",
+      "Santiago de Cuba"
+    ],
+    "explicacion": "Se forma sobre Santiago. Los de Santiago de Chile son santiaguinos, y los de Santiago de Cuba, santiagueros.",
+    "curiosidad": "Fundada en 1553, la llaman Madre de Ciudades: es la ciudad más antigua de Argentina.",
+    "otras_formas": []
+  },
+  {
+    "id": "morelense",
+    "gentilicio": "morelense",
+    "lugar": "Morelos",
+    "pais": "México",
+    "region": "Morelos",
+    "coordenadas": [
+      18.921,
+      -99.234
+    ],
+    "nivel": 3,
+    "formato": "normal",
+    "falsas": [
+      "Morelia",
+      "Morón de la Frontera"
+    ],
+    "explicacion": "Se forma sobre Morelos, el estado que lleva el nombre de José María Morelos. Los de Morelia son morelianos.",
+    "curiosidad": "Cuernavaca, su capital, es la ciudad de la eterna primavera.",
+    "otras_formas": []
+  },
+  {
+    "id": "guanajuatense",
+    "gentilicio": "guanajuatense",
+    "lugar": "Guanajuato",
+    "pais": "México",
+    "region": "Guanajuato",
+    "coordenadas": [
+      21.019,
+      -101.257
+    ],
+    "nivel": 1,
+    "formato": "normal",
+    "falsas": [
+      "Guadalajara (España)",
+      "Guayaquil"
+    ],
+    "explicacion": "Se forma sobre Guanajuato, del purépecha, 'cerro de ranas'.",
+    "curiosidad": "Sus callejones y túneles subterráneos la hacen única; cada año acoge el Festival Cervantino.",
+    "otras_formas": []
+  },
+  {
+    "id": "coquimbano",
+    "gentilicio": "coquimbano",
+    "lugar": "Coquimbo",
+    "pais": "Chile",
+    "region": "Coquimbo",
+    "coordenadas": [
+      -29.953,
+      -71.343
+    ],
+    "nivel": 2,
+    "formato": "normal",
+    "falsas": [
+      "Copiapó",
+      "Cochabamba"
+    ],
+    "explicacion": "Se forma sobre Coquimbo, nombre de origen indígena.",
+    "curiosidad": "Su gran Cruz del Tercer Milenio domina la bahía.",
+    "otras_formas": []
+  },
+  {
+    "id": "sangüesino",
+    "gentilicio": "sangüesino",
+    "lugar": "Sangüesa",
+    "pais": "España",
+    "region": "Navarra",
+    "coordenadas": [
+      42.575,
+      -1.283
+    ],
+    "nivel": 3,
+    "formato": "normal",
+    "falsas": [
+      "Segovia",
+      "Sanxenxo"
+    ],
+    "explicacion": "Se forma sobre Sangüesa.",
+    "curiosidad": "La portada de Santa María la Real es una de las joyas del románico en el Camino de Santiago.",
+    "otras_formas": []
+  },
+  {
+    "id": "baezano",
+    "gentilicio": "baezano",
+    "lugar": "Baeza",
+    "pais": "España",
+    "region": "Andalucía",
+    "coordenadas": [
+      37.994,
+      -3.471
+    ],
+    "nivel": 1,
+    "formato": "normal",
+    "falsas": [
+      "Baza",
+      "Bailén"
+    ],
+    "explicacion": "Viene del nombre romano de la ciudad, Biatia.",
+    "curiosidad": "Junto con Úbeda, es patrimonio de la humanidad por su arquitectura renacentista.",
+    "otras_formas": []
+  },
+  {
+    "id": "tachirense",
+    "gentilicio": "tachirense",
+    "lugar": "Táchira",
+    "pais": "Venezuela",
+    "region": "Táchira",
+    "coordenadas": [
+      7.767,
+      -72.225
+    ],
+    "nivel": 2,
+    "formato": "normal",
+    "falsas": [
+      "Tacna",
+      "Tarija"
+    ],
+    "explicacion": "Se forma sobre Táchira, nombre de origen indígena.",
+    "curiosidad": "Es tierra fronteriza con Colombia, en los Andes venezolanos.",
+    "otras_formas": []
+  },
+  {
+    "id": "arevalense",
+    "gentilicio": "arevalense",
+    "lugar": "Arévalo",
+    "pais": "España",
+    "region": "Castilla y León",
+    "coordenadas": [
+      41.064,
+      -4.718
+    ],
+    "nivel": 3,
+    "formato": "normal",
+    "falsas": [
+      "Arnedo",
+      "Aranjuez"
+    ],
+    "explicacion": "Se forma sobre Arévalo con el sufijo culto -ense.",
+    "curiosidad": "Isabel la Católica pasó parte de su infancia en su castillo.",
+    "otras_formas": []
   }
 ]

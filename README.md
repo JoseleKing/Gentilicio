@@ -76,8 +76,8 @@ Edita solo `data/gentilicios.json`. Cada entrada:
 - `revisar: true` marca las entradas con algún dato por confirmar.
 
 **El orden importa.** El día *n* usa el *n*-ésimo gentilicio de cada nivel, así que hay tantos días
-distintos como entradas tenga el nivel más corto. Al acabarse, el ciclo vuelve a empezar. Hoy hay 40
-entradas por nivel: el último día es el 10 de noviembre de 2026 y el 11 vuelve el día 1. Una vez
+distintos como entradas tenga el nivel más corto. Al acabarse, el ciclo vuelve a empezar. Hoy hay 70
+entradas por nivel: el último día es el 10 de diciembre de 2026 y el 11 vuelve el día 1. Una vez
 publicado, añade las entradas nuevas al final y no reordenes ni borres las anteriores, porque
 cambiarías los retos de días ya jugados.
 
