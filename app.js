@@ -426,9 +426,10 @@ function responder(numero, indice, valor) {
   if (revelada) revelada.scrollIntoView({ behavior: 'smooth', block: 'start' });
 }
 
+// Una marca por gentilicio: ▰ acertado, ▱ fallado. «Gentilicio nº 7 ▰▱▰ 2/3 aciertos» y el enlace.
 function textoCompartir(numero, aciertos) {
-  const casillas = aciertos.map((a) => (a ? '🟩' : '🟥')).join('');
-  return `Gentilicio nº ${numero} 📍\n${casillas}\n${location.origin}${location.pathname}`;
+  const marcas = aciertos.map((a) => (a ? '▰' : '▱')).join('');
+  return `Gentilicio nº ${numero} ${marcas} ${aciertos.filter(Boolean).length}/${aciertos.length} aciertos\njoseleking.github.io/Gentilicio`;
 }
 
 async function compartir(numero, aciertos) {
