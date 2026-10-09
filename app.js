@@ -1,9 +1,9 @@
 /* Gentilicio · app.js
    Tres gentilicios al día, los mismos para todos. Sin servidor: el reto sale de la fecha
-   (hora de Madrid) y la partida se guarda en localStorage. */
+   (hora local del jugador) y la partida se guarda en localStorage. */
 'use strict';
 
-/** Día nº 1 del juego (fecha de Madrid). Cambiarlo cambia la numeración y el reto de cada día. */
+/** Día nº 1 del juego (fecha local). Cambiarlo cambia la numeración y el reto de cada día. */
 const INICIO = { anio: 2026, mes: 10, dia: 2 };
 const CLAVE = 'gentilicio:v1';
 const PREGUNTAS = 3;
@@ -64,37 +64,22 @@ if (/^(localhost|127\.|10\.|192\.168\.)/.test(location.hostname) && parametros.h
   history.replaceState(null, '', location.pathname);
 }
 
-/* ---------- Fechas (hora de Madrid) ---------- */
-
-const RELOJ_MADRID = new Intl.DateTimeFormat('en-GB', {
-  timeZone: 'Europe/Madrid',
-  year: 'numeric', month: 'numeric', day: 'numeric',
-  hour: 'numeric', minute: 'numeric', second: 'numeric', hourCycle: 'h23',
-});
-
-function ahoraEnMadrid(momento = new Date()) {
-  const p = {};
-  for (const { type, value } of RELOJ_MADRID.formatToParts(momento)) p[type] = Number(value);
-  return p;
-}
+/* ---------- Fechas (hora local del jugador) ---------- */
 
 /** Número del reto de hoy (nº 1 el día de INICIO). */
 function numeroDeHoy() {
-  const m = ahoraEnMadrid();
-  const hoy = Date.UTC(m.year, m.month - 1, m.day);
+  const ahora = new Date();
+  // Date.UTC con la fecha local: así el cambio de hora no descuadra la cuenta.
+  const hoy = Date.UTC(ahora.getFullYear(), ahora.getMonth(), ahora.getDate());
   const inicio = Date.UTC(INICIO.anio, INICIO.mes - 1, INICIO.dia);
   return Math.max(1, Math.round((hoy - inicio) / MS_DIA) + 1);
 }
 
-/** Tiempo hasta la medianoche de Madrid, también los días de cambio de hora (23 o 25 horas). */
+/** Tiempo hasta la medianoche local, también los días de cambio de hora (23 o 25 horas). */
 function cuentaAtras() {
-  const ahora = Date.now();
-  const m = ahoraEnMadrid(new Date(ahora));
-  let s = 86400 - (m.hour * 3600 + m.minute * 60 + m.second);
-  // Se mira qué hora marcará Madrid al cabo de s segundos y se corrige la diferencia.
-  const luego = ahoraEnMadrid(new Date(ahora + s * 1000));
-  const pasado = luego.hour * 3600 + luego.minute * 60 + luego.second;
-  s = Math.max(0, luego.day === m.day ? s + 86400 - pasado : s - pasado);
+  const ahora = new Date();
+  const manana = new Date(ahora.getFullYear(), ahora.getMonth(), ahora.getDate() + 1);
+  const s = Math.max(0, Math.ceil((manana - ahora) / 1000));
   const dos = (n) => String(n).padStart(2, '0');
   return `${dos(Math.floor(s / 3600))}:${dos(Math.floor(s / 60) % 60)}:${dos(s % 60)}`;
 }
@@ -510,7 +495,7 @@ async function iniciar() {
   render();
   retirarPortada(reglasPrimeraVez);
 
-  // Cada segundo: la cuenta atrás y, a medianoche de Madrid, el reto nuevo.
+  // Cada segundo: la cuenta atrás y, a medianoche, el reto nuevo.
   setInterval(() => {
     if (!diaPrueba && numeroDeHoy() !== diaMostrado) return render();
     const cuenta = document.getElementById('cuenta');

@@ -11,7 +11,7 @@ GitHub Pages e instalable como aplicación (PWA).
 
 - Tres preguntas al día, de menos a más difícil: **despegue**, **la trampa** y **jefe final**.
   A veces una va **del revés**: se da el lugar y se elige el gentilicio.
-- El reto cambia a medianoche, hora de Madrid. El día nº 1 es el 2 de octubre de 2026
+- El reto cambia a medianoche, hora local del jugador. El día nº 1 es el 2 de octubre de 2026
   (`INICIO` en `app.js`).
 - La racha cuenta los días seguidos en que se juegan las tres preguntas, se acierte o no.
 
